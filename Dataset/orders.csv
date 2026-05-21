@@ -1,0 +1,2001 @@
+order_id,customer_id,order_date,payment_method,order_status
+5001,113,2026-05-05,UPI,Shipped
+5002,16,2026-04-13,Debit Card,Shipped
+5003,603,2025-10-15,Debit Card,Delivered
+5004,179,2026-04-08,Debit Card,Delivered
+5005,130,2024-05-24,Net Banking,Delivered
+5006,764,2025-10-04,UPI,Pending
+5007,460,2025-01-26,Debit Card,Delivered
+5008,463,2024-10-27,Cash,Shipped
+5009,969,2026-03-18,Cash,Delivered
+5010,745,2025-07-05,Cash,Cancelled
+5011,470,2024-08-26,UPI,Delivered
+5012,491,2025-05-28,Net Banking,Pending
+5013,703,2026-03-01,UPI,Pending
+5014,730,2026-01-25,Net Banking,Delivered
+5015,921,2025-04-01,UPI,Cancelled
+5016,623,2024-07-03,Credit Card,Delivered
+5017,130,2025-04-28,Debit Card,Cancelled
+5018,391,2025-03-12,Cash,Cancelled
+5019,465,2025-06-02,Cash,Pending
+5020,102,2025-09-19,UPI,Shipped
+5021,441,2024-10-13,Net Banking,Shipped
+5022,424,2025-02-17,Debit Card,Pending
+5023,409,2025-01-22,Net Banking,Delivered
+5024,321,2024-08-23,Net Banking,Cancelled
+5025,682,2025-01-06,Debit Card,Cancelled
+5026,977,2025-04-20,Credit Card,Pending
+5027,69,2025-12-29,UPI,Delivered
+5028,96,2025-07-03,Net Banking,Delivered
+5029,763,2025-03-27,Debit Card,Shipped
+5030,570,2026-01-22,UPI,Cancelled
+5031,687,2025-01-30,UPI,Pending
+5032,363,2026-03-23,Net Banking,Delivered
+5033,992,2026-01-16,Debit Card,Cancelled
+5034,361,2025-05-25,UPI,Shipped
+5035,159,2024-09-21,Net Banking,Shipped
+5036,868,2024-09-29,UPI,Cancelled
+5037,866,2025-12-31,Cash,Cancelled
+5038,118,2024-12-08,Debit Card,Shipped
+5039,827,2025-07-01,Net Banking,Delivered
+5040,624,2025-04-16,Debit Card,Delivered
+5041,185,2025-06-14,Debit Card,Cancelled
+5042,944,2025-03-21,Debit Card,Cancelled
+5043,7,2026-03-27,Credit Card,Shipped
+5044,580,2025-09-20,Net Banking,Delivered
+5045,146,2026-01-24,UPI,Delivered
+5046,765,2025-10-06,Cash,Shipped
+5047,386,2025-11-15,Net Banking,Pending
+5048,350,2026-04-05,Credit Card,Cancelled
+5049,320,2024-10-06,Debit Card,Delivered
+5050,905,2025-01-10,UPI,Shipped
+5051,162,2026-01-07,Cash,Delivered
+5052,691,2025-02-26,UPI,Cancelled
+5053,454,2024-12-05,Net Banking,Pending
+5054,622,2026-01-30,Net Banking,Pending
+5055,280,2024-09-15,Credit Card,Delivered
+5056,354,2024-09-21,Net Banking,Delivered
+5057,291,2025-04-25,Cash,Pending
+5058,540,2026-02-03,Debit Card,Delivered
+5059,226,2024-05-18,Net Banking,Delivered
+5060,8,2025-05-18,Credit Card,Cancelled
+5061,969,2024-08-29,Credit Card,Shipped
+5062,783,2026-01-13,Debit Card,Cancelled
+5063,336,2024-06-15,UPI,Delivered
+5064,510,2024-06-17,Net Banking,Shipped
+5065,133,2026-01-03,Net Banking,Shipped
+5066,513,2024-08-25,Cash,Cancelled
+5067,74,2025-01-13,Net Banking,Delivered
+5068,447,2025-05-18,UPI,Pending
+5069,944,2024-08-17,UPI,Cancelled
+5070,590,2025-05-05,Net Banking,Pending
+5071,727,2025-03-15,Net Banking,Cancelled
+5072,118,2024-08-18,Net Banking,Delivered
+5073,990,2026-01-29,Debit Card,Shipped
+5074,821,2024-06-01,Cash,Pending
+5075,852,2025-02-01,Debit Card,Delivered
+5076,448,2025-03-15,UPI,Shipped
+5077,447,2025-08-22,Cash,Pending
+5078,537,2024-11-17,UPI,Pending
+5079,892,2025-09-10,Debit Card,Cancelled
+5080,227,2025-03-14,Debit Card,Shipped
+5081,79,2025-02-06,Cash,Delivered
+5082,544,2025-03-01,Cash,Shipped
+5083,928,2026-01-21,Debit Card,Cancelled
+5084,745,2024-12-13,Credit Card,Shipped
+5085,106,2025-01-01,Credit Card,Cancelled
+5086,203,2025-05-24,Credit Card,Shipped
+5087,779,2024-06-30,UPI,Shipped
+5088,975,2025-10-27,Net Banking,Pending
+5089,773,2025-09-23,Cash,Pending
+5090,698,2025-05-23,Cash,Cancelled
+5091,885,2025-06-15,Debit Card,Shipped
+5092,451,2025-11-09,UPI,Pending
+5093,453,2024-09-16,Debit Card,Cancelled
+5094,606,2024-11-20,UPI,Cancelled
+5095,520,2026-03-05,UPI,Cancelled
+5096,473,2026-02-24,Net Banking,Delivered
+5097,59,2025-09-11,Debit Card,Cancelled
+5098,79,2025-10-18,UPI,Pending
+5099,474,2024-07-03,Cash,Delivered
+5100,461,2024-12-27,Cash,Shipped
+5101,330,2024-07-22,Cash,Pending
+5102,514,2024-09-03,Credit Card,Delivered
+5103,462,2025-02-22,UPI,Cancelled
+5104,732,2024-11-18,UPI,Shipped
+5105,41,2025-08-28,Credit Card,Pending
+5106,450,2024-09-05,Cash,Shipped
+5107,373,2025-08-16,Debit Card,Cancelled
+5108,397,2024-11-03,Net Banking,Cancelled
+5109,696,2026-03-27,Cash,Delivered
+5110,809,2025-08-27,Debit Card,Delivered
+5111,338,2024-11-28,UPI,Pending
+5112,291,2025-05-28,Debit Card,Shipped
+5113,342,2026-05-14,UPI,Shipped
+5114,939,2025-06-26,Debit Card,Cancelled
+5115,991,2024-12-10,Net Banking,Shipped
+5116,610,2024-05-17,UPI,Cancelled
+5117,573,2025-03-20,Net Banking,Cancelled
+5118,833,2025-10-21,Credit Card,Delivered
+5119,662,2024-10-15,Net Banking,Cancelled
+5120,19,2024-10-19,Debit Card,Cancelled
+5121,185,2024-10-19,Credit Card,Cancelled
+5122,971,2025-10-11,Net Banking,Shipped
+5123,232,2025-11-23,Credit Card,Shipped
+5124,80,2025-03-22,Debit Card,Delivered
+5125,520,2024-09-18,Cash,Delivered
+5126,678,2024-10-28,Debit Card,Shipped
+5127,612,2025-12-20,Net Banking,Shipped
+5128,167,2025-10-19,Credit Card,Shipped
+5129,739,2025-05-14,Net Banking,Delivered
+5130,421,2024-07-31,Debit Card,Shipped
+5131,993,2024-07-17,Net Banking,Cancelled
+5132,771,2025-09-20,Net Banking,Shipped
+5133,547,2024-09-22,Credit Card,Cancelled
+5134,989,2024-08-11,Net Banking,Shipped
+5135,377,2025-07-26,Cash,Pending
+5136,473,2024-08-22,Debit Card,Pending
+5137,515,2024-10-16,Cash,Pending
+5138,990,2025-08-29,Credit Card,Shipped
+5139,821,2026-01-03,Cash,Shipped
+5140,894,2025-03-29,Debit Card,Delivered
+5141,657,2025-12-22,Net Banking,Cancelled
+5142,568,2025-03-23,UPI,Delivered
+5143,292,2026-04-03,UPI,Shipped
+5144,280,2026-03-03,Net Banking,Shipped
+5145,851,2025-07-02,Net Banking,Delivered
+5146,970,2025-11-20,Credit Card,Pending
+5147,906,2026-04-30,Debit Card,Delivered
+5148,425,2025-02-23,UPI,Pending
+5149,515,2025-06-07,Debit Card,Shipped
+5150,396,2025-05-06,UPI,Cancelled
+5151,230,2026-01-18,UPI,Cancelled
+5152,954,2024-06-30,UPI,Cancelled
+5153,811,2025-07-11,Credit Card,Shipped
+5154,40,2024-08-23,Debit Card,Pending
+5155,713,2026-05-02,Credit Card,Pending
+5156,460,2025-01-08,Cash,Delivered
+5157,928,2024-06-21,UPI,Delivered
+5158,263,2025-11-14,Credit Card,Shipped
+5159,562,2026-01-22,Cash,Pending
+5160,114,2026-03-07,Debit Card,Shipped
+5161,309,2025-01-24,UPI,Delivered
+5162,245,2024-09-16,Net Banking,Pending
+5163,65,2025-07-09,UPI,Pending
+5164,612,2024-06-04,Cash,Delivered
+5165,648,2025-04-06,Cash,Shipped
+5166,736,2025-08-29,Credit Card,Cancelled
+5167,440,2025-03-01,UPI,Cancelled
+5168,247,2025-02-26,Cash,Pending
+5169,192,2024-06-15,UPI,Cancelled
+5170,70,2025-02-19,Cash,Delivered
+5171,400,2026-04-02,Net Banking,Delivered
+5172,651,2026-02-19,Net Banking,Cancelled
+5173,260,2026-03-05,UPI,Cancelled
+5174,808,2024-08-16,UPI,Cancelled
+5175,247,2025-10-18,UPI,Cancelled
+5176,137,2025-09-19,UPI,Cancelled
+5177,560,2024-10-11,Debit Card,Shipped
+5178,851,2026-02-06,Net Banking,Pending
+5179,647,2025-09-07,Credit Card,Shipped
+5180,65,2025-09-02,Net Banking,Delivered
+5181,301,2025-08-09,Credit Card,Delivered
+5182,811,2025-04-11,Credit Card,Delivered
+5183,324,2024-06-01,Debit Card,Pending
+5184,835,2026-04-09,Cash,Pending
+5185,260,2025-12-03,UPI,Shipped
+5186,293,2024-10-23,Debit Card,Delivered
+5187,887,2025-09-20,Debit Card,Cancelled
+5188,128,2024-07-13,Debit Card,Pending
+5189,911,2025-12-22,Net Banking,Pending
+5190,917,2025-11-13,Net Banking,Cancelled
+5191,998,2024-08-28,Credit Card,Pending
+5192,709,2024-07-19,Net Banking,Cancelled
+5193,947,2025-03-20,Cash,Cancelled
+5194,821,2024-05-30,UPI,Pending
+5195,81,2026-01-21,Net Banking,Shipped
+5196,559,2026-04-30,Debit Card,Cancelled
+5197,106,2026-04-09,UPI,Cancelled
+5198,677,2025-09-17,Debit Card,Cancelled
+5199,457,2026-04-23,Cash,Pending
+5200,171,2026-04-02,Net Banking,Cancelled
+5201,458,2025-07-16,UPI,Cancelled
+5202,630,2025-07-25,Net Banking,Cancelled
+5203,655,2024-06-13,UPI,Delivered
+5204,688,2024-11-27,Net Banking,Cancelled
+5205,526,2025-12-09,Credit Card,Delivered
+5206,147,2025-10-05,Cash,Pending
+5207,36,2024-12-12,Credit Card,Delivered
+5208,242,2024-12-04,Debit Card,Cancelled
+5209,393,2025-11-25,Cash,Delivered
+5210,620,2025-01-24,Credit Card,Pending
+5211,972,2025-01-25,Debit Card,Cancelled
+5212,455,2024-07-21,UPI,Shipped
+5213,543,2026-01-15,Debit Card,Pending
+5214,322,2024-06-03,Debit Card,Shipped
+5215,984,2025-08-14,UPI,Delivered
+5216,754,2024-11-22,Credit Card,Pending
+5217,531,2025-06-09,Net Banking,Delivered
+5218,269,2024-06-08,Debit Card,Pending
+5219,220,2025-12-12,Cash,Cancelled
+5220,711,2025-04-03,Net Banking,Shipped
+5221,126,2024-07-14,Credit Card,Delivered
+5222,463,2024-10-14,Credit Card,Pending
+5223,90,2025-09-15,Debit Card,Cancelled
+5224,727,2024-12-24,UPI,Cancelled
+5225,913,2024-08-10,Debit Card,Shipped
+5226,729,2024-10-06,Credit Card,Cancelled
+5227,521,2024-11-19,Credit Card,Delivered
+5228,206,2026-01-28,Credit Card,Shipped
+5229,810,2025-11-14,Net Banking,Delivered
+5230,370,2025-08-02,Cash,Cancelled
+5231,479,2024-11-12,Cash,Shipped
+5232,627,2025-10-31,UPI,Delivered
+5233,317,2025-01-29,Net Banking,Pending
+5234,539,2024-12-02,Net Banking,Pending
+5235,844,2025-02-15,Cash,Delivered
+5236,129,2026-02-07,Debit Card,Delivered
+5237,461,2025-12-15,Net Banking,Cancelled
+5238,132,2026-05-10,Cash,Shipped
+5239,787,2024-09-19,Credit Card,Pending
+5240,515,2025-10-29,UPI,Delivered
+5241,531,2025-11-21,Credit Card,Cancelled
+5242,169,2024-12-26,Credit Card,Cancelled
+5243,958,2024-09-10,Credit Card,Cancelled
+5244,971,2025-07-18,Cash,Cancelled
+5245,867,2025-09-18,UPI,Cancelled
+5246,202,2025-11-24,Cash,Cancelled
+5247,129,2026-01-22,Debit Card,Delivered
+5248,515,2024-06-15,Credit Card,Shipped
+5249,176,2025-12-16,Cash,Cancelled
+5250,863,2025-01-03,Cash,Delivered
+5251,846,2025-07-15,UPI,Delivered
+5252,47,2026-04-08,Cash,Cancelled
+5253,667,2025-07-18,Credit Card,Pending
+5254,633,2024-07-31,UPI,Pending
+5255,911,2026-02-02,Cash,Cancelled
+5256,658,2026-02-17,Debit Card,Pending
+5257,251,2024-12-29,Net Banking,Cancelled
+5258,465,2025-08-13,UPI,Delivered
+5259,162,2024-12-08,Net Banking,Pending
+5260,496,2025-03-14,Net Banking,Shipped
+5261,349,2025-06-02,Cash,Shipped
+5262,321,2024-08-30,Debit Card,Cancelled
+5263,999,2026-03-23,Net Banking,Shipped
+5264,779,2024-10-13,Debit Card,Delivered
+5265,327,2024-09-08,Credit Card,Pending
+5266,126,2025-04-27,Debit Card,Pending
+5267,254,2024-06-20,Credit Card,Delivered
+5268,52,2024-09-17,Debit Card,Pending
+5269,885,2024-10-14,Cash,Pending
+5270,255,2025-05-08,Credit Card,Cancelled
+5271,957,2024-09-08,Cash,Cancelled
+5272,195,2026-02-09,Credit Card,Pending
+5273,528,2026-05-15,Net Banking,Pending
+5274,901,2025-12-18,Debit Card,Pending
+5275,24,2026-02-15,UPI,Pending
+5276,518,2025-10-19,Net Banking,Shipped
+5277,221,2025-11-27,Cash,Cancelled
+5278,50,2026-02-25,UPI,Cancelled
+5279,507,2024-10-22,Cash,Pending
+5280,293,2025-03-20,Cash,Delivered
+5281,868,2025-08-23,UPI,Pending
+5282,138,2025-06-01,Debit Card,Cancelled
+5283,783,2024-08-26,Net Banking,Cancelled
+5284,47,2025-09-05,Net Banking,Delivered
+5285,584,2025-12-05,Cash,Shipped
+5286,372,2025-02-22,Cash,Cancelled
+5287,76,2025-01-04,Net Banking,Pending
+5288,783,2026-04-08,Cash,Cancelled
+5289,846,2025-05-02,Cash,Delivered
+5290,132,2024-06-24,UPI,Pending
+5291,383,2024-10-03,Debit Card,Cancelled
+5292,774,2024-07-03,Credit Card,Shipped
+5293,617,2026-01-22,Cash,Pending
+5294,513,2024-10-13,UPI,Delivered
+5295,40,2025-06-07,Credit Card,Cancelled
+5296,824,2025-11-19,Net Banking,Pending
+5297,153,2025-04-25,Cash,Shipped
+5298,336,2024-12-20,Cash,Cancelled
+5299,167,2025-06-28,Net Banking,Cancelled
+5300,608,2025-07-19,Debit Card,Pending
+5301,726,2024-09-28,Cash,Cancelled
+5302,487,2024-09-19,UPI,Cancelled
+5303,340,2025-02-09,UPI,Pending
+5304,598,2026-02-03,Debit Card,Delivered
+5305,612,2025-04-29,Net Banking,Cancelled
+5306,991,2025-11-30,Cash,Shipped
+5307,739,2024-06-02,UPI,Pending
+5308,175,2024-06-10,Cash,Pending
+5309,152,2025-05-20,Credit Card,Delivered
+5310,587,2025-07-11,UPI,Shipped
+5311,20,2025-05-26,Net Banking,Cancelled
+5312,429,2025-12-06,Credit Card,Pending
+5313,708,2024-12-23,Credit Card,Pending
+5314,514,2026-03-25,Cash,Pending
+5315,894,2024-08-16,UPI,Shipped
+5316,532,2024-09-18,Credit Card,Cancelled
+5317,679,2024-10-22,Net Banking,Pending
+5318,322,2025-04-04,Credit Card,Pending
+5319,935,2025-11-16,Cash,Cancelled
+5320,560,2025-07-24,Debit Card,Cancelled
+5321,625,2024-11-27,Net Banking,Shipped
+5322,981,2025-07-09,Credit Card,Cancelled
+5323,572,2025-08-18,Debit Card,Shipped
+5324,965,2025-08-05,Debit Card,Cancelled
+5325,722,2026-03-21,Credit Card,Pending
+5326,325,2024-07-29,Net Banking,Cancelled
+5327,574,2025-10-12,Debit Card,Cancelled
+5328,125,2024-05-18,Cash,Pending
+5329,918,2026-02-15,Net Banking,Cancelled
+5330,978,2025-03-04,Credit Card,Cancelled
+5331,44,2026-05-12,Debit Card,Delivered
+5332,355,2025-02-26,Net Banking,Cancelled
+5333,766,2024-07-03,Net Banking,Shipped
+5334,207,2025-11-17,Cash,Cancelled
+5335,956,2025-02-28,Cash,Cancelled
+5336,141,2025-07-07,UPI,Shipped
+5337,249,2024-06-22,UPI,Shipped
+5338,654,2024-09-24,Credit Card,Delivered
+5339,103,2026-04-07,Net Banking,Cancelled
+5340,735,2024-06-23,Net Banking,Delivered
+5341,698,2024-12-22,Credit Card,Delivered
+5342,988,2025-08-05,Cash,Shipped
+5343,417,2025-12-16,Net Banking,Pending
+5344,667,2024-08-04,Credit Card,Cancelled
+5345,329,2025-05-02,Debit Card,Delivered
+5346,930,2024-09-16,UPI,Shipped
+5347,548,2025-11-07,UPI,Shipped
+5348,428,2025-03-12,Credit Card,Delivered
+5349,857,2025-02-07,Net Banking,Pending
+5350,191,2025-11-07,Debit Card,Delivered
+5351,10,2024-09-21,Debit Card,Delivered
+5352,951,2025-05-21,Debit Card,Cancelled
+5353,466,2024-12-18,Cash,Pending
+5354,911,2025-03-16,Credit Card,Pending
+5355,280,2025-11-17,Credit Card,Delivered
+5356,339,2024-05-18,Credit Card,Pending
+5357,664,2025-12-26,Debit Card,Shipped
+5358,15,2024-11-28,Debit Card,Cancelled
+5359,582,2025-06-02,Credit Card,Shipped
+5360,626,2024-12-02,Net Banking,Pending
+5361,528,2024-10-10,Debit Card,Delivered
+5362,411,2024-10-13,UPI,Shipped
+5363,144,2025-10-14,Net Banking,Cancelled
+5364,959,2025-07-04,Credit Card,Delivered
+5365,268,2025-12-10,Net Banking,Shipped
+5366,458,2025-06-12,Debit Card,Cancelled
+5367,310,2025-07-07,Cash,Delivered
+5368,268,2024-08-20,Debit Card,Shipped
+5369,64,2025-04-26,UPI,Pending
+5370,315,2025-12-01,Credit Card,Pending
+5371,703,2025-10-20,Cash,Cancelled
+5372,707,2024-12-15,UPI,Cancelled
+5373,377,2026-04-25,Cash,Shipped
+5374,225,2025-02-01,Credit Card,Pending
+5375,157,2025-12-08,Net Banking,Cancelled
+5376,426,2024-09-04,Cash,Pending
+5377,776,2024-05-30,Cash,Shipped
+5378,781,2025-04-24,Credit Card,Delivered
+5379,539,2025-10-15,Net Banking,Cancelled
+5380,80,2024-09-28,Cash,Delivered
+5381,64,2024-06-03,Cash,Shipped
+5382,587,2026-02-10,Cash,Shipped
+5383,169,2025-03-07,Debit Card,Pending
+5384,120,2025-12-15,Credit Card,Pending
+5385,94,2025-12-21,Cash,Pending
+5386,829,2025-02-28,UPI,Pending
+5387,136,2025-10-08,Cash,Pending
+5388,468,2026-04-07,Cash,Delivered
+5389,573,2025-10-17,Net Banking,Cancelled
+5390,741,2024-07-25,UPI,Pending
+5391,261,2024-12-23,UPI,Shipped
+5392,593,2025-03-17,UPI,Delivered
+5393,434,2024-09-29,Debit Card,Delivered
+5394,555,2026-03-21,UPI,Delivered
+5395,957,2024-05-27,Net Banking,Delivered
+5396,294,2026-04-17,Net Banking,Shipped
+5397,788,2026-05-07,Credit Card,Pending
+5398,384,2026-05-03,Net Banking,Pending
+5399,891,2024-05-18,Net Banking,Pending
+5400,83,2024-10-05,Cash,Shipped
+5401,670,2026-04-18,Debit Card,Delivered
+5402,183,2025-11-01,Cash,Pending
+5403,542,2024-07-06,Credit Card,Shipped
+5404,855,2025-06-11,UPI,Delivered
+5405,306,2024-05-25,Net Banking,Pending
+5406,545,2025-05-14,Net Banking,Shipped
+5407,254,2024-06-30,Net Banking,Cancelled
+5408,159,2024-11-25,Debit Card,Shipped
+5409,960,2025-11-22,UPI,Delivered
+5410,829,2025-06-15,Net Banking,Delivered
+5411,247,2024-07-22,Credit Card,Delivered
+5412,104,2025-08-05,Cash,Delivered
+5413,458,2025-06-21,Cash,Delivered
+5414,251,2024-11-03,UPI,Pending
+5415,450,2025-09-30,Credit Card,Shipped
+5416,773,2025-11-16,UPI,Shipped
+5417,516,2025-08-13,Debit Card,Shipped
+5418,836,2025-07-19,Cash,Cancelled
+5419,592,2026-03-06,Cash,Cancelled
+5420,243,2024-05-28,Debit Card,Shipped
+5421,677,2025-06-11,Cash,Shipped
+5422,424,2024-06-23,Debit Card,Cancelled
+5423,63,2025-09-29,Cash,Shipped
+5424,642,2025-03-20,Net Banking,Pending
+5425,49,2025-12-05,Debit Card,Pending
+5426,805,2024-12-14,Cash,Cancelled
+5427,714,2025-11-04,Net Banking,Pending
+5428,153,2025-03-19,Debit Card,Pending
+5429,189,2025-01-17,Cash,Pending
+5430,247,2026-01-05,Credit Card,Cancelled
+5431,879,2026-02-26,Credit Card,Pending
+5432,937,2024-06-11,UPI,Pending
+5433,992,2024-10-29,Net Banking,Shipped
+5434,398,2025-05-29,Credit Card,Cancelled
+5435,209,2024-11-01,Debit Card,Delivered
+5436,945,2025-12-05,Net Banking,Cancelled
+5437,95,2025-08-23,Cash,Shipped
+5438,53,2025-08-10,Debit Card,Pending
+5439,690,2025-11-05,Cash,Delivered
+5440,895,2024-12-13,UPI,Shipped
+5441,824,2026-04-07,Cash,Shipped
+5442,491,2025-06-25,Credit Card,Cancelled
+5443,311,2025-09-12,UPI,Shipped
+5444,960,2025-04-23,Credit Card,Delivered
+5445,765,2024-07-24,Net Banking,Shipped
+5446,713,2025-06-28,Cash,Shipped
+5447,407,2025-09-22,Credit Card,Cancelled
+5448,795,2024-12-03,Debit Card,Pending
+5449,478,2025-07-01,Cash,Cancelled
+5450,316,2026-02-10,Debit Card,Cancelled
+5451,526,2024-10-22,Net Banking,Pending
+5452,101,2024-09-15,Net Banking,Cancelled
+5453,937,2025-07-13,Credit Card,Cancelled
+5454,321,2024-06-21,Net Banking,Delivered
+5455,577,2025-07-27,Credit Card,Shipped
+5456,17,2025-02-20,Debit Card,Pending
+5457,303,2024-09-12,Credit Card,Shipped
+5458,338,2025-02-21,Credit Card,Pending
+5459,584,2026-02-17,Credit Card,Pending
+5460,564,2025-04-20,Debit Card,Cancelled
+5461,782,2026-01-26,Net Banking,Pending
+5462,472,2025-02-08,Credit Card,Cancelled
+5463,174,2025-05-31,Credit Card,Pending
+5464,189,2025-06-08,Cash,Delivered
+5465,537,2024-10-21,UPI,Delivered
+5466,968,2025-06-01,UPI,Delivered
+5467,423,2025-11-30,Credit Card,Shipped
+5468,70,2024-09-22,Credit Card,Delivered
+5469,224,2024-08-09,Cash,Pending
+5470,383,2025-09-06,UPI,Pending
+5471,676,2025-12-30,Net Banking,Delivered
+5472,7,2026-03-06,Cash,Pending
+5473,13,2025-01-02,UPI,Cancelled
+5474,549,2026-02-05,Debit Card,Delivered
+5475,515,2024-10-12,Net Banking,Shipped
+5476,110,2025-10-21,UPI,Shipped
+5477,247,2025-11-01,Credit Card,Cancelled
+5478,835,2024-08-19,Debit Card,Cancelled
+5479,815,2025-03-06,Net Banking,Delivered
+5480,383,2024-05-15,Net Banking,Pending
+5481,579,2025-08-01,Credit Card,Shipped
+5482,308,2025-10-27,UPI,Delivered
+5483,96,2024-10-06,Net Banking,Pending
+5484,387,2024-07-05,Cash,Pending
+5485,58,2025-01-30,UPI,Shipped
+5486,85,2026-05-13,Net Banking,Pending
+5487,661,2025-01-06,Debit Card,Delivered
+5488,917,2024-10-13,Cash,Delivered
+5489,236,2026-03-08,Credit Card,Pending
+5490,278,2026-05-10,UPI,Delivered
+5491,701,2026-05-05,Debit Card,Delivered
+5492,184,2025-04-18,Debit Card,Delivered
+5493,985,2025-02-15,Credit Card,Shipped
+5494,771,2025-04-15,Net Banking,Delivered
+5495,307,2025-08-15,Credit Card,Shipped
+5496,581,2025-09-27,Net Banking,Cancelled
+5497,394,2025-04-04,Credit Card,Delivered
+5498,513,2024-09-27,Debit Card,Delivered
+5499,101,2026-02-05,Net Banking,Shipped
+5500,859,2026-01-17,UPI,Cancelled
+5501,620,2025-08-28,Cash,Pending
+5502,993,2024-09-27,Debit Card,Delivered
+5503,650,2025-10-26,Debit Card,Pending
+5504,503,2026-01-12,Credit Card,Cancelled
+5505,567,2024-08-16,Net Banking,Pending
+5506,191,2025-05-10,Cash,Pending
+5507,88,2024-08-11,Cash,Cancelled
+5508,818,2024-11-08,Credit Card,Delivered
+5509,85,2025-09-05,Debit Card,Shipped
+5510,390,2024-08-03,Credit Card,Pending
+5511,325,2025-04-24,Debit Card,Delivered
+5512,94,2024-07-31,UPI,Cancelled
+5513,456,2026-01-03,Debit Card,Cancelled
+5514,105,2026-03-16,Credit Card,Delivered
+5515,192,2026-01-19,Net Banking,Pending
+5516,571,2026-02-17,Cash,Pending
+5517,106,2026-02-12,UPI,Delivered
+5518,363,2025-09-26,Cash,Delivered
+5519,612,2025-05-01,Cash,Cancelled
+5520,885,2025-04-25,Net Banking,Delivered
+5521,299,2024-10-30,Net Banking,Pending
+5522,798,2025-04-29,UPI,Shipped
+5523,586,2025-09-27,Cash,Shipped
+5524,702,2026-01-27,Net Banking,Shipped
+5525,143,2024-11-06,Debit Card,Cancelled
+5526,275,2025-08-12,Net Banking,Shipped
+5527,65,2024-11-01,Credit Card,Pending
+5528,283,2025-03-16,Net Banking,Cancelled
+5529,496,2026-03-15,UPI,Cancelled
+5530,258,2026-01-31,Credit Card,Pending
+5531,609,2025-07-20,Cash,Shipped
+5532,469,2024-06-28,UPI,Shipped
+5533,312,2024-09-10,UPI,Pending
+5534,341,2024-08-28,Cash,Pending
+5535,824,2025-11-21,Debit Card,Pending
+5536,343,2024-12-07,Net Banking,Shipped
+5537,308,2025-08-17,Debit Card,Shipped
+5538,491,2025-04-21,Debit Card,Shipped
+5539,988,2025-03-14,Net Banking,Cancelled
+5540,299,2024-09-16,Net Banking,Shipped
+5541,334,2025-12-11,Net Banking,Cancelled
+5542,837,2025-08-27,Net Banking,Cancelled
+5543,117,2024-08-08,Cash,Shipped
+5544,607,2025-03-22,Cash,Shipped
+5545,699,2024-09-25,Cash,Delivered
+5546,976,2024-11-20,Net Banking,Shipped
+5547,449,2026-01-18,Debit Card,Delivered
+5548,839,2024-05-25,Net Banking,Pending
+5549,143,2025-05-11,Debit Card,Shipped
+5550,259,2024-06-14,Credit Card,Pending
+5551,809,2024-11-25,Net Banking,Delivered
+5552,460,2024-12-19,Cash,Pending
+5553,597,2026-01-16,Net Banking,Pending
+5554,557,2025-07-21,UPI,Cancelled
+5555,719,2026-04-29,Cash,Delivered
+5556,112,2025-03-22,Credit Card,Cancelled
+5557,171,2024-11-15,Cash,Delivered
+5558,577,2025-08-27,Net Banking,Cancelled
+5559,989,2025-01-18,Net Banking,Delivered
+5560,11,2025-02-18,UPI,Cancelled
+5561,228,2024-07-15,Cash,Shipped
+5562,457,2025-05-01,Debit Card,Pending
+5563,475,2024-06-11,Cash,Shipped
+5564,354,2025-11-13,UPI,Pending
+5565,108,2024-09-12,Debit Card,Pending
+5566,943,2025-03-23,UPI,Delivered
+5567,852,2024-05-15,Credit Card,Cancelled
+5568,320,2026-02-03,Debit Card,Pending
+5569,804,2025-09-08,Credit Card,Pending
+5570,357,2024-10-31,Net Banking,Delivered
+5571,449,2025-01-26,Net Banking,Cancelled
+5572,69,2026-01-30,Debit Card,Delivered
+5573,830,2025-06-14,UPI,Delivered
+5574,870,2025-08-17,Debit Card,Delivered
+5575,694,2025-11-27,Credit Card,Shipped
+5576,529,2025-12-13,Credit Card,Shipped
+5577,339,2025-07-04,Cash,Pending
+5578,982,2024-10-04,Net Banking,Shipped
+5579,817,2025-03-25,Net Banking,Shipped
+5580,191,2026-02-25,Net Banking,Pending
+5581,30,2024-12-29,Cash,Shipped
+5582,461,2025-04-16,Cash,Pending
+5583,399,2026-01-27,UPI,Shipped
+5584,211,2025-07-04,Debit Card,Delivered
+5585,592,2026-01-16,UPI,Shipped
+5586,375,2025-06-03,Debit Card,Shipped
+5587,469,2024-05-26,UPI,Cancelled
+5588,687,2025-06-12,Net Banking,Cancelled
+5589,612,2024-12-01,Net Banking,Pending
+5590,602,2024-07-26,UPI,Cancelled
+5591,361,2025-10-21,Net Banking,Shipped
+5592,834,2025-08-14,Debit Card,Delivered
+5593,689,2024-07-25,Credit Card,Cancelled
+5594,121,2025-10-04,Credit Card,Cancelled
+5595,120,2025-12-22,Credit Card,Cancelled
+5596,711,2025-04-19,Credit Card,Pending
+5597,429,2026-02-03,Cash,Shipped
+5598,589,2025-04-20,Net Banking,Pending
+5599,191,2025-01-10,Net Banking,Shipped
+5600,569,2025-02-03,Credit Card,Pending
+5601,296,2026-01-06,Credit Card,Shipped
+5602,323,2025-12-19,Net Banking,Delivered
+5603,887,2024-07-17,Debit Card,Delivered
+5604,497,2025-03-04,Credit Card,Shipped
+5605,835,2025-11-09,Net Banking,Pending
+5606,419,2025-12-06,Net Banking,Pending
+5607,728,2025-02-10,Net Banking,Pending
+5608,172,2024-10-21,UPI,Delivered
+5609,815,2025-06-29,Credit Card,Cancelled
+5610,34,2026-03-09,Debit Card,Shipped
+5611,551,2024-07-11,Debit Card,Shipped
+5612,800,2024-09-11,Net Banking,Pending
+5613,563,2024-10-17,Cash,Delivered
+5614,587,2025-07-27,UPI,Cancelled
+5615,794,2026-04-12,Cash,Cancelled
+5616,556,2026-03-12,UPI,Pending
+5617,560,2026-03-21,Credit Card,Pending
+5618,105,2025-09-09,Credit Card,Cancelled
+5619,896,2025-01-18,UPI,Pending
+5620,270,2025-04-27,Debit Card,Delivered
+5621,450,2026-02-16,UPI,Shipped
+5622,215,2024-10-12,Cash,Cancelled
+5623,882,2025-09-15,Cash,Pending
+5624,170,2024-12-22,Cash,Shipped
+5625,804,2025-01-08,Credit Card,Shipped
+5626,825,2025-10-30,UPI,Cancelled
+5627,546,2025-06-23,Debit Card,Shipped
+5628,332,2026-03-12,Debit Card,Cancelled
+5629,587,2026-03-16,Debit Card,Delivered
+5630,139,2024-12-15,Net Banking,Delivered
+5631,284,2025-09-29,Credit Card,Shipped
+5632,256,2024-07-20,Credit Card,Cancelled
+5633,849,2024-09-14,Credit Card,Pending
+5634,502,2025-10-15,Credit Card,Cancelled
+5635,643,2025-04-10,Net Banking,Pending
+5636,463,2024-07-14,UPI,Delivered
+5637,413,2024-12-11,Cash,Cancelled
+5638,712,2026-02-23,Debit Card,Pending
+5639,974,2026-03-27,Net Banking,Cancelled
+5640,596,2025-02-15,UPI,Delivered
+5641,749,2025-06-06,Net Banking,Cancelled
+5642,871,2026-03-30,UPI,Pending
+5643,224,2024-08-15,Net Banking,Shipped
+5644,507,2024-09-23,Debit Card,Cancelled
+5645,849,2025-07-08,Debit Card,Cancelled
+5646,561,2024-12-20,Cash,Shipped
+5647,580,2026-02-23,Net Banking,Cancelled
+5648,916,2025-04-23,UPI,Delivered
+5649,102,2025-10-09,Net Banking,Delivered
+5650,128,2025-12-21,Credit Card,Pending
+5651,468,2026-02-07,UPI,Pending
+5652,208,2025-06-06,Credit Card,Cancelled
+5653,163,2024-09-11,Debit Card,Delivered
+5654,671,2025-11-27,Debit Card,Cancelled
+5655,85,2025-08-03,Debit Card,Shipped
+5656,54,2024-06-07,Net Banking,Cancelled
+5657,744,2025-08-31,Credit Card,Pending
+5658,672,2024-09-15,UPI,Delivered
+5659,2,2026-04-24,Credit Card,Pending
+5660,80,2025-11-11,Credit Card,Shipped
+5661,532,2024-09-12,Net Banking,Delivered
+5662,9,2026-03-07,Debit Card,Delivered
+5663,881,2024-11-01,Net Banking,Shipped
+5664,490,2026-04-09,UPI,Shipped
+5665,393,2026-02-19,UPI,Delivered
+5666,106,2025-09-24,Debit Card,Cancelled
+5667,903,2025-05-15,Debit Card,Shipped
+5668,392,2025-10-28,Credit Card,Shipped
+5669,71,2026-04-16,Cash,Delivered
+5670,625,2024-06-28,Credit Card,Pending
+5671,360,2025-02-14,Credit Card,Shipped
+5672,942,2025-10-16,Net Banking,Pending
+5673,881,2025-04-09,Credit Card,Delivered
+5674,919,2025-02-18,UPI,Shipped
+5675,771,2024-10-06,UPI,Pending
+5676,360,2024-11-17,Net Banking,Cancelled
+5677,811,2025-04-30,Credit Card,Shipped
+5678,284,2025-04-14,UPI,Shipped
+5679,567,2025-08-24,Cash,Cancelled
+5680,798,2024-05-31,UPI,Cancelled
+5681,211,2026-04-21,Cash,Shipped
+5682,766,2026-05-13,Net Banking,Cancelled
+5683,662,2024-05-28,UPI,Shipped
+5684,507,2025-10-11,Net Banking,Delivered
+5685,247,2025-10-04,Net Banking,Delivered
+5686,541,2024-05-15,UPI,Cancelled
+5687,957,2025-09-30,Debit Card,Shipped
+5688,397,2025-02-07,Cash,Pending
+5689,375,2024-10-09,Cash,Shipped
+5690,782,2024-11-16,Net Banking,Delivered
+5691,18,2025-02-23,Cash,Delivered
+5692,15,2026-01-13,Debit Card,Shipped
+5693,41,2025-09-10,UPI,Pending
+5694,519,2024-11-11,Debit Card,Pending
+5695,434,2024-11-18,Net Banking,Delivered
+5696,656,2024-10-14,Cash,Shipped
+5697,285,2024-11-07,UPI,Cancelled
+5698,81,2024-07-23,Cash,Shipped
+5699,998,2025-06-29,Credit Card,Cancelled
+5700,401,2026-02-17,Cash,Delivered
+5701,318,2025-09-21,Net Banking,Shipped
+5702,60,2025-06-11,Credit Card,Delivered
+5703,947,2024-09-13,Net Banking,Delivered
+5704,465,2025-08-18,Cash,Delivered
+5705,317,2024-11-13,Credit Card,Delivered
+5706,13,2024-12-11,Credit Card,Delivered
+5707,168,2024-11-21,Net Banking,Cancelled
+5708,536,2024-11-19,Cash,Cancelled
+5709,171,2025-06-01,Debit Card,Shipped
+5710,768,2024-09-13,Debit Card,Delivered
+5711,790,2024-09-11,UPI,Cancelled
+5712,827,2025-11-29,Net Banking,Cancelled
+5713,537,2025-09-05,UPI,Cancelled
+5714,730,2025-01-04,Cash,Delivered
+5715,509,2026-01-06,Net Banking,Cancelled
+5716,57,2024-09-21,Net Banking,Shipped
+5717,377,2026-01-17,Credit Card,Cancelled
+5718,792,2025-08-17,UPI,Delivered
+5719,234,2024-06-26,Cash,Delivered
+5720,46,2025-04-28,UPI,Shipped
+5721,48,2024-07-22,Net Banking,Cancelled
+5722,393,2024-11-15,Credit Card,Shipped
+5723,954,2024-09-03,UPI,Pending
+5724,230,2024-09-10,Debit Card,Shipped
+5725,427,2025-04-25,Debit Card,Cancelled
+5726,846,2025-07-17,UPI,Cancelled
+5727,123,2026-04-12,Cash,Delivered
+5728,184,2026-01-13,Credit Card,Delivered
+5729,977,2025-11-09,Net Banking,Delivered
+5730,899,2025-05-14,Net Banking,Cancelled
+5731,793,2025-08-12,Debit Card,Cancelled
+5732,89,2026-01-20,Cash,Pending
+5733,9,2026-02-13,Debit Card,Shipped
+5734,299,2026-03-03,Cash,Cancelled
+5735,758,2025-08-11,Cash,Shipped
+5736,476,2025-04-10,Debit Card,Pending
+5737,792,2025-12-10,Credit Card,Shipped
+5738,155,2024-11-23,UPI,Pending
+5739,25,2024-05-27,Credit Card,Cancelled
+5740,652,2025-08-14,UPI,Cancelled
+5741,2,2026-05-02,Net Banking,Cancelled
+5742,107,2026-05-14,Credit Card,Shipped
+5743,430,2026-01-21,Net Banking,Delivered
+5744,996,2025-04-01,Credit Card,Cancelled
+5745,96,2025-05-05,UPI,Shipped
+5746,919,2024-11-03,Cash,Pending
+5747,718,2026-03-16,Debit Card,Pending
+5748,998,2026-02-25,UPI,Delivered
+5749,518,2025-01-18,Credit Card,Pending
+5750,77,2024-11-21,Cash,Delivered
+5751,446,2025-02-23,Credit Card,Shipped
+5752,299,2025-02-11,Debit Card,Cancelled
+5753,949,2025-12-23,Net Banking,Cancelled
+5754,326,2026-05-03,Net Banking,Cancelled
+5755,240,2024-08-03,UPI,Shipped
+5756,140,2026-02-24,Cash,Delivered
+5757,160,2026-05-09,UPI,Shipped
+5758,461,2024-12-14,Net Banking,Cancelled
+5759,417,2025-10-14,UPI,Cancelled
+5760,988,2024-07-17,Credit Card,Pending
+5761,316,2024-09-19,Net Banking,Cancelled
+5762,873,2024-12-13,UPI,Delivered
+5763,162,2024-06-14,Debit Card,Delivered
+5764,221,2026-02-26,Debit Card,Shipped
+5765,94,2026-02-26,Credit Card,Cancelled
+5766,406,2025-01-23,Cash,Delivered
+5767,694,2025-03-09,Debit Card,Cancelled
+5768,840,2024-12-04,Credit Card,Delivered
+5769,975,2025-10-14,Net Banking,Pending
+5770,570,2025-08-16,Cash,Shipped
+5771,97,2024-09-16,Net Banking,Delivered
+5772,824,2026-01-19,Credit Card,Delivered
+5773,13,2024-07-17,UPI,Shipped
+5774,134,2024-05-25,Credit Card,Pending
+5775,382,2025-02-19,UPI,Cancelled
+5776,940,2026-05-06,UPI,Delivered
+5777,67,2025-04-18,Credit Card,Pending
+5778,829,2024-08-02,Credit Card,Delivered
+5779,927,2025-03-25,Debit Card,Delivered
+5780,44,2024-09-02,Net Banking,Delivered
+5781,173,2025-09-19,Cash,Pending
+5782,842,2024-07-03,Net Banking,Pending
+5783,31,2026-03-20,Net Banking,Pending
+5784,177,2025-09-08,Debit Card,Shipped
+5785,931,2024-06-24,Credit Card,Cancelled
+5786,287,2025-03-07,Net Banking,Shipped
+5787,36,2024-08-30,Cash,Shipped
+5788,663,2025-10-31,Debit Card,Pending
+5789,422,2025-11-23,Cash,Pending
+5790,63,2024-11-16,UPI,Cancelled
+5791,393,2026-02-24,Credit Card,Pending
+5792,205,2024-08-06,Cash,Shipped
+5793,646,2025-12-06,Cash,Delivered
+5794,392,2025-07-06,Debit Card,Pending
+5795,558,2026-01-25,Net Banking,Cancelled
+5796,935,2024-09-03,Cash,Cancelled
+5797,398,2026-03-11,Debit Card,Shipped
+5798,27,2025-12-14,Debit Card,Shipped
+5799,31,2025-07-27,Debit Card,Delivered
+5800,829,2025-01-08,Net Banking,Cancelled
+5801,786,2026-05-07,Cash,Shipped
+5802,998,2024-11-23,Credit Card,Delivered
+5803,254,2026-03-14,Credit Card,Cancelled
+5804,547,2025-03-12,UPI,Shipped
+5805,590,2024-12-30,Net Banking,Cancelled
+5806,958,2024-12-29,Credit Card,Shipped
+5807,243,2024-11-08,Cash,Cancelled
+5808,826,2026-03-26,Debit Card,Delivered
+5809,721,2025-01-21,Debit Card,Shipped
+5810,577,2024-05-16,Credit Card,Pending
+5811,556,2025-09-09,Debit Card,Shipped
+5812,503,2025-08-11,UPI,Delivered
+5813,58,2024-11-15,Credit Card,Shipped
+5814,21,2024-10-01,Cash,Pending
+5815,1,2024-06-26,Debit Card,Shipped
+5816,826,2026-03-10,Credit Card,Cancelled
+5817,735,2024-06-22,Credit Card,Cancelled
+5818,61,2024-07-16,UPI,Shipped
+5819,601,2025-01-01,Credit Card,Delivered
+5820,867,2026-01-17,Cash,Cancelled
+5821,984,2025-12-01,UPI,Cancelled
+5822,722,2025-05-23,Net Banking,Delivered
+5823,345,2024-09-13,Debit Card,Cancelled
+5824,140,2024-10-21,Credit Card,Pending
+5825,811,2025-01-29,Net Banking,Cancelled
+5826,179,2024-08-07,Cash,Cancelled
+5827,229,2024-12-12,Cash,Shipped
+5828,388,2025-11-28,Debit Card,Cancelled
+5829,131,2025-01-27,Credit Card,Delivered
+5830,972,2025-04-08,Cash,Pending
+5831,872,2025-07-03,Cash,Delivered
+5832,187,2026-03-25,Cash,Cancelled
+5833,944,2026-05-15,Cash,Shipped
+5834,655,2026-04-11,Cash,Delivered
+5835,960,2024-08-23,Net Banking,Shipped
+5836,340,2025-07-28,UPI,Shipped
+5837,356,2024-10-03,Debit Card,Shipped
+5838,652,2025-03-17,UPI,Cancelled
+5839,458,2024-07-28,UPI,Cancelled
+5840,215,2024-10-27,Credit Card,Delivered
+5841,359,2025-07-05,Debit Card,Delivered
+5842,738,2025-04-09,UPI,Delivered
+5843,396,2026-01-18,Net Banking,Pending
+5844,993,2025-10-30,Credit Card,Pending
+5845,505,2024-06-02,Net Banking,Cancelled
+5846,560,2024-07-21,Net Banking,Delivered
+5847,849,2025-05-24,Net Banking,Shipped
+5848,167,2026-03-08,Net Banking,Delivered
+5849,819,2025-12-26,UPI,Cancelled
+5850,21,2025-03-01,Debit Card,Cancelled
+5851,975,2025-11-04,UPI,Delivered
+5852,351,2025-05-24,Credit Card,Pending
+5853,165,2025-09-22,UPI,Delivered
+5854,347,2025-11-22,Cash,Pending
+5855,722,2024-09-17,UPI,Pending
+5856,966,2024-11-24,Credit Card,Pending
+5857,161,2025-10-23,UPI,Delivered
+5858,340,2024-07-03,Credit Card,Shipped
+5859,420,2025-04-10,Cash,Cancelled
+5860,677,2026-02-22,Debit Card,Cancelled
+5861,244,2026-03-10,UPI,Delivered
+5862,403,2024-11-25,Cash,Pending
+5863,158,2024-12-23,UPI,Cancelled
+5864,4,2025-03-09,Net Banking,Delivered
+5865,302,2025-04-25,Cash,Pending
+5866,205,2024-08-04,UPI,Delivered
+5867,212,2025-09-09,Credit Card,Cancelled
+5868,84,2024-07-28,Net Banking,Delivered
+5869,316,2025-10-03,Net Banking,Pending
+5870,501,2025-03-19,Debit Card,Delivered
+5871,658,2024-09-23,Cash,Pending
+5872,190,2024-10-01,Debit Card,Pending
+5873,379,2025-06-01,Credit Card,Pending
+5874,46,2025-06-13,Debit Card,Pending
+5875,477,2024-12-12,Debit Card,Shipped
+5876,858,2024-09-25,Debit Card,Delivered
+5877,155,2024-08-30,UPI,Delivered
+5878,685,2024-11-02,Debit Card,Pending
+5879,995,2024-05-21,Cash,Shipped
+5880,567,2026-03-31,UPI,Pending
+5881,839,2026-04-25,Cash,Pending
+5882,989,2026-03-15,Cash,Pending
+5883,587,2025-09-10,Credit Card,Pending
+5884,307,2025-02-16,UPI,Pending
+5885,925,2025-10-31,UPI,Shipped
+5886,124,2025-11-25,Net Banking,Shipped
+5887,972,2025-08-02,Credit Card,Shipped
+5888,828,2025-10-24,Credit Card,Shipped
+5889,44,2026-01-15,Net Banking,Delivered
+5890,700,2025-01-31,Net Banking,Shipped
+5891,843,2026-03-03,Credit Card,Cancelled
+5892,328,2024-10-31,UPI,Delivered
+5893,398,2026-02-18,Cash,Pending
+5894,566,2025-07-20,Debit Card,Cancelled
+5895,533,2024-05-27,Net Banking,Delivered
+5896,806,2024-08-09,Cash,Pending
+5897,116,2024-12-09,Net Banking,Shipped
+5898,152,2026-02-22,Cash,Delivered
+5899,948,2025-03-17,UPI,Delivered
+5900,805,2026-03-02,Debit Card,Cancelled
+5901,899,2024-07-20,Net Banking,Cancelled
+5902,393,2025-05-18,Net Banking,Pending
+5903,39,2026-01-03,Credit Card,Cancelled
+5904,413,2026-05-05,Credit Card,Pending
+5905,40,2025-07-07,Net Banking,Cancelled
+5906,708,2024-07-17,Credit Card,Delivered
+5907,764,2025-01-07,Net Banking,Cancelled
+5908,919,2024-10-08,Debit Card,Delivered
+5909,346,2026-01-09,Debit Card,Cancelled
+5910,288,2024-05-20,Net Banking,Delivered
+5911,996,2024-10-30,Credit Card,Shipped
+5912,308,2024-07-06,Net Banking,Cancelled
+5913,276,2025-05-26,Net Banking,Delivered
+5914,193,2025-01-19,Net Banking,Shipped
+5915,936,2025-03-16,Net Banking,Pending
+5916,778,2025-10-24,Cash,Cancelled
+5917,841,2025-02-14,UPI,Shipped
+5918,68,2024-09-13,Debit Card,Pending
+5919,139,2025-10-09,Cash,Delivered
+5920,178,2025-11-12,Credit Card,Shipped
+5921,858,2025-06-13,UPI,Shipped
+5922,34,2026-03-13,Net Banking,Delivered
+5923,941,2025-04-08,Debit Card,Shipped
+5924,281,2025-09-29,Debit Card,Pending
+5925,518,2025-01-09,Net Banking,Delivered
+5926,698,2026-03-17,UPI,Shipped
+5927,382,2025-11-18,Net Banking,Pending
+5928,182,2024-10-30,Net Banking,Cancelled
+5929,353,2024-12-26,Credit Card,Cancelled
+5930,767,2025-08-18,UPI,Cancelled
+5931,29,2025-06-03,Net Banking,Delivered
+5932,167,2025-09-16,Cash,Shipped
+5933,878,2026-05-05,Credit Card,Shipped
+5934,694,2024-09-02,Credit Card,Cancelled
+5935,668,2024-08-09,Net Banking,Delivered
+5936,886,2025-03-08,UPI,Pending
+5937,934,2024-09-06,Credit Card,Shipped
+5938,616,2026-02-04,UPI,Shipped
+5939,259,2024-05-26,Cash,Cancelled
+5940,730,2026-03-20,Debit Card,Pending
+5941,917,2026-04-20,Net Banking,Cancelled
+5942,471,2025-07-30,Debit Card,Shipped
+5943,478,2025-10-13,Debit Card,Pending
+5944,599,2026-03-27,UPI,Delivered
+5945,524,2024-05-26,Debit Card,Cancelled
+5946,306,2024-10-02,UPI,Pending
+5947,66,2025-07-04,Debit Card,Cancelled
+5948,656,2024-09-19,Debit Card,Cancelled
+5949,268,2024-10-31,Debit Card,Shipped
+5950,154,2025-08-23,Cash,Shipped
+5951,922,2024-12-20,UPI,Pending
+5952,677,2025-09-03,Debit Card,Shipped
+5953,739,2024-06-26,UPI,Pending
+5954,303,2025-04-29,Debit Card,Pending
+5955,415,2026-04-09,Net Banking,Delivered
+5956,598,2026-02-25,Cash,Shipped
+5957,352,2025-09-09,Credit Card,Pending
+5958,929,2024-10-30,Debit Card,Cancelled
+5959,866,2024-08-19,Credit Card,Shipped
+5960,301,2026-02-01,UPI,Pending
+5961,132,2025-09-12,Debit Card,Shipped
+5962,970,2025-05-03,Debit Card,Delivered
+5963,228,2026-01-28,Debit Card,Shipped
+5964,763,2025-04-23,Debit Card,Pending
+5965,808,2025-08-17,Debit Card,Cancelled
+5966,267,2024-07-09,Cash,Cancelled
+5967,475,2025-08-03,UPI,Pending
+5968,55,2025-10-10,Cash,Delivered
+5969,484,2025-12-19,Credit Card,Delivered
+5970,889,2025-07-11,Net Banking,Cancelled
+5971,424,2025-06-14,UPI,Shipped
+5972,141,2026-02-16,Credit Card,Cancelled
+5973,420,2025-03-04,Cash,Pending
+5974,147,2026-04-05,Debit Card,Shipped
+5975,798,2026-05-09,UPI,Pending
+5976,341,2025-03-07,Credit Card,Cancelled
+5977,650,2024-06-13,UPI,Delivered
+5978,463,2026-01-27,Debit Card,Shipped
+5979,780,2024-11-07,Credit Card,Shipped
+5980,502,2024-08-17,UPI,Shipped
+5981,630,2025-03-01,Net Banking,Pending
+5982,414,2026-01-25,Net Banking,Pending
+5983,393,2025-05-14,UPI,Delivered
+5984,547,2025-02-20,Credit Card,Cancelled
+5985,973,2026-05-12,UPI,Cancelled
+5986,776,2025-07-20,Cash,Shipped
+5987,19,2025-09-02,UPI,Shipped
+5988,232,2025-10-08,Debit Card,Cancelled
+5989,133,2024-07-19,UPI,Pending
+5990,516,2024-11-09,Cash,Cancelled
+5991,172,2025-08-16,UPI,Delivered
+5992,306,2024-10-07,Debit Card,Pending
+5993,746,2024-05-15,Cash,Cancelled
+5994,445,2025-05-04,Credit Card,Cancelled
+5995,924,2025-08-26,Net Banking,Cancelled
+5996,769,2025-03-06,Credit Card,Shipped
+5997,971,2024-09-15,Net Banking,Delivered
+5998,234,2025-04-04,Credit Card,Shipped
+5999,217,2025-03-30,UPI,Shipped
+6000,127,2024-05-21,Debit Card,Delivered
+6001,385,2024-12-08,Debit Card,Delivered
+6002,609,2025-07-07,UPI,Delivered
+6003,670,2025-09-09,UPI,Delivered
+6004,707,2026-03-18,UPI,Pending
+6005,455,2025-09-06,Net Banking,Delivered
+6006,561,2024-08-03,Debit Card,Pending
+6007,719,2024-05-24,Credit Card,Shipped
+6008,712,2025-09-19,UPI,Cancelled
+6009,431,2025-08-17,UPI,Cancelled
+6010,638,2025-01-01,Cash,Shipped
+6011,429,2025-12-05,UPI,Delivered
+6012,290,2025-03-25,UPI,Delivered
+6013,510,2026-03-07,Credit Card,Shipped
+6014,797,2025-09-02,Debit Card,Shipped
+6015,367,2024-12-28,Net Banking,Cancelled
+6016,165,2024-09-12,UPI,Pending
+6017,933,2025-10-03,Credit Card,Pending
+6018,339,2025-08-14,Credit Card,Delivered
+6019,14,2026-03-24,UPI,Delivered
+6020,856,2025-10-26,Cash,Pending
+6021,153,2024-08-18,UPI,Delivered
+6022,741,2025-07-26,UPI,Cancelled
+6023,660,2024-08-25,Credit Card,Pending
+6024,304,2025-08-06,Debit Card,Pending
+6025,52,2026-01-17,UPI,Shipped
+6026,896,2026-01-29,UPI,Cancelled
+6027,369,2024-06-28,Debit Card,Pending
+6028,757,2025-06-25,UPI,Delivered
+6029,872,2026-04-20,UPI,Delivered
+6030,873,2025-07-09,Credit Card,Shipped
+6031,337,2025-04-30,Debit Card,Pending
+6032,979,2025-07-12,Cash,Cancelled
+6033,900,2024-12-16,UPI,Cancelled
+6034,835,2025-07-25,Debit Card,Shipped
+6035,117,2025-03-27,Net Banking,Pending
+6036,986,2025-04-11,Net Banking,Cancelled
+6037,856,2025-07-22,Net Banking,Pending
+6038,820,2024-07-17,Net Banking,Shipped
+6039,116,2025-09-28,Credit Card,Delivered
+6040,966,2026-03-12,Credit Card,Delivered
+6041,427,2026-01-20,Cash,Pending
+6042,822,2025-09-03,Cash,Pending
+6043,186,2024-09-18,Cash,Pending
+6044,798,2024-11-03,Debit Card,Delivered
+6045,884,2025-01-22,Credit Card,Pending
+6046,943,2024-10-08,Net Banking,Delivered
+6047,909,2025-01-10,Net Banking,Pending
+6048,48,2024-05-26,UPI,Cancelled
+6049,671,2024-06-27,Debit Card,Delivered
+6050,722,2024-07-01,Cash,Shipped
+6051,979,2026-04-11,Debit Card,Delivered
+6052,444,2025-03-23,Credit Card,Pending
+6053,355,2025-08-21,Net Banking,Shipped
+6054,860,2024-10-01,Cash,Delivered
+6055,12,2024-06-23,Credit Card,Pending
+6056,873,2025-01-12,Net Banking,Shipped
+6057,77,2025-02-12,Net Banking,Cancelled
+6058,247,2024-08-29,Debit Card,Cancelled
+6059,52,2025-02-28,Cash,Shipped
+6060,564,2024-06-25,Net Banking,Pending
+6061,837,2025-04-16,Credit Card,Delivered
+6062,471,2025-01-23,Net Banking,Pending
+6063,91,2025-01-17,Net Banking,Pending
+6064,324,2024-12-27,UPI,Pending
+6065,764,2025-11-24,UPI,Delivered
+6066,414,2026-04-08,Net Banking,Delivered
+6067,571,2024-06-14,Cash,Delivered
+6068,846,2025-06-04,UPI,Cancelled
+6069,912,2024-12-19,Cash,Shipped
+6070,671,2026-03-05,Net Banking,Cancelled
+6071,373,2025-12-05,UPI,Shipped
+6072,865,2025-12-16,Net Banking,Cancelled
+6073,574,2026-04-01,Cash,Pending
+6074,734,2024-10-23,Debit Card,Pending
+6075,117,2025-01-17,UPI,Shipped
+6076,3,2024-10-01,Debit Card,Cancelled
+6077,850,2025-03-09,Debit Card,Cancelled
+6078,719,2026-05-03,UPI,Delivered
+6079,919,2025-02-07,Credit Card,Pending
+6080,144,2025-11-29,Net Banking,Delivered
+6081,261,2025-10-09,Cash,Shipped
+6082,193,2025-10-12,UPI,Pending
+6083,221,2024-11-04,Net Banking,Shipped
+6084,734,2025-10-05,Debit Card,Delivered
+6085,776,2025-01-11,Net Banking,Delivered
+6086,949,2025-08-07,Cash,Delivered
+6087,791,2025-05-05,Net Banking,Pending
+6088,675,2025-07-14,Cash,Shipped
+6089,987,2024-08-03,Net Banking,Delivered
+6090,544,2025-07-30,UPI,Pending
+6091,859,2026-01-10,Cash,Pending
+6092,947,2025-09-13,Cash,Shipped
+6093,709,2024-05-23,Cash,Shipped
+6094,749,2025-06-15,Credit Card,Delivered
+6095,397,2025-05-13,Cash,Cancelled
+6096,517,2025-12-07,Net Banking,Pending
+6097,624,2024-07-31,Credit Card,Cancelled
+6098,408,2025-11-18,Debit Card,Cancelled
+6099,464,2024-08-11,Credit Card,Shipped
+6100,423,2024-10-12,Cash,Cancelled
+6101,864,2024-12-26,Cash,Cancelled
+6102,729,2025-05-17,Cash,Shipped
+6103,206,2025-12-10,Credit Card,Cancelled
+6104,704,2026-04-02,Debit Card,Shipped
+6105,728,2025-02-15,Credit Card,Cancelled
+6106,728,2024-07-06,UPI,Cancelled
+6107,576,2024-05-28,Net Banking,Pending
+6108,691,2025-11-07,Cash,Cancelled
+6109,899,2025-10-17,Net Banking,Delivered
+6110,536,2024-11-06,UPI,Delivered
+6111,391,2024-09-18,Credit Card,Delivered
+6112,687,2025-10-14,UPI,Shipped
+6113,274,2024-09-17,Credit Card,Cancelled
+6114,700,2025-04-02,Debit Card,Shipped
+6115,860,2025-12-05,UPI,Cancelled
+6116,209,2025-09-03,Cash,Delivered
+6117,368,2025-08-16,Net Banking,Delivered
+6118,631,2025-10-19,Cash,Shipped
+6119,761,2025-02-25,Cash,Pending
+6120,244,2025-09-14,Cash,Cancelled
+6121,710,2025-08-11,UPI,Pending
+6122,397,2025-07-17,Net Banking,Cancelled
+6123,990,2025-07-06,Cash,Delivered
+6124,14,2024-09-09,Debit Card,Shipped
+6125,636,2026-01-26,Net Banking,Shipped
+6126,934,2025-02-23,Debit Card,Shipped
+6127,795,2026-01-24,Credit Card,Cancelled
+6128,460,2024-11-09,Credit Card,Delivered
+6129,192,2025-09-21,Credit Card,Delivered
+6130,387,2025-01-04,UPI,Pending
+6131,286,2025-03-08,Cash,Cancelled
+6132,134,2025-07-17,Credit Card,Cancelled
+6133,6,2025-02-01,Debit Card,Pending
+6134,727,2025-02-15,Credit Card,Delivered
+6135,158,2025-07-19,Debit Card,Delivered
+6136,793,2024-11-30,Cash,Cancelled
+6137,503,2024-10-23,Cash,Cancelled
+6138,75,2024-08-28,Debit Card,Shipped
+6139,980,2025-09-22,Credit Card,Delivered
+6140,806,2025-10-30,Cash,Shipped
+6141,426,2025-02-21,Cash,Pending
+6142,95,2025-08-03,Debit Card,Shipped
+6143,905,2025-03-07,Credit Card,Cancelled
+6144,340,2024-07-09,Debit Card,Cancelled
+6145,224,2024-09-30,Cash,Pending
+6146,575,2026-04-10,UPI,Delivered
+6147,685,2024-09-15,Debit Card,Pending
+6148,247,2024-07-19,Cash,Shipped
+6149,982,2024-10-02,UPI,Cancelled
+6150,391,2026-05-13,UPI,Pending
+6151,263,2025-09-16,Cash,Cancelled
+6152,26,2025-04-11,Cash,Cancelled
+6153,527,2025-11-13,Cash,Pending
+6154,499,2026-02-15,UPI,Cancelled
+6155,920,2024-08-31,Credit Card,Cancelled
+6156,527,2026-03-10,UPI,Delivered
+6157,172,2024-11-03,Cash,Delivered
+6158,642,2026-04-27,UPI,Shipped
+6159,687,2024-09-30,Credit Card,Pending
+6160,856,2025-11-04,UPI,Shipped
+6161,551,2025-06-11,Net Banking,Delivered
+6162,765,2025-03-04,Credit Card,Delivered
+6163,471,2025-09-08,Debit Card,Delivered
+6164,90,2025-07-15,UPI,Delivered
+6165,183,2025-02-22,Debit Card,Delivered
+6166,589,2025-12-27,Credit Card,Cancelled
+6167,418,2024-08-23,Net Banking,Pending
+6168,646,2025-06-04,Net Banking,Pending
+6169,324,2024-10-17,UPI,Pending
+6170,690,2025-07-27,UPI,Delivered
+6171,657,2024-12-28,Cash,Delivered
+6172,775,2024-09-29,Cash,Delivered
+6173,718,2026-02-11,UPI,Cancelled
+6174,951,2025-12-07,Cash,Delivered
+6175,297,2025-12-18,Debit Card,Delivered
+6176,289,2024-07-07,Net Banking,Pending
+6177,405,2026-01-30,UPI,Pending
+6178,161,2025-08-30,Cash,Shipped
+6179,140,2025-11-18,Net Banking,Cancelled
+6180,984,2025-02-09,Credit Card,Cancelled
+6181,694,2025-11-11,Debit Card,Delivered
+6182,567,2024-11-07,Cash,Shipped
+6183,127,2026-03-08,UPI,Delivered
+6184,587,2026-03-03,Cash,Pending
+6185,551,2025-05-22,Cash,Delivered
+6186,313,2024-11-30,Credit Card,Cancelled
+6187,217,2025-07-06,Net Banking,Shipped
+6188,165,2025-12-19,Credit Card,Shipped
+6189,632,2024-08-24,Debit Card,Shipped
+6190,118,2026-05-03,Credit Card,Delivered
+6191,872,2024-09-28,Cash,Pending
+6192,661,2025-11-28,Cash,Delivered
+6193,298,2025-11-23,UPI,Cancelled
+6194,101,2025-04-01,Credit Card,Pending
+6195,975,2024-05-28,Debit Card,Cancelled
+6196,132,2025-11-20,Credit Card,Delivered
+6197,292,2026-04-29,Cash,Delivered
+6198,922,2026-01-02,Credit Card,Cancelled
+6199,498,2024-10-11,Net Banking,Cancelled
+6200,632,2024-06-10,Debit Card,Shipped
+6201,580,2024-12-27,Cash,Cancelled
+6202,828,2025-01-20,Debit Card,Pending
+6203,173,2026-01-12,UPI,Cancelled
+6204,253,2025-01-20,Credit Card,Pending
+6205,284,2024-08-25,Debit Card,Shipped
+6206,696,2024-11-19,Debit Card,Pending
+6207,474,2024-08-23,Net Banking,Cancelled
+6208,794,2026-04-18,Debit Card,Pending
+6209,565,2025-10-16,UPI,Shipped
+6210,662,2024-09-19,Cash,Delivered
+6211,862,2025-04-26,Debit Card,Shipped
+6212,913,2025-07-21,Cash,Shipped
+6213,270,2025-04-15,UPI,Delivered
+6214,914,2024-05-30,UPI,Delivered
+6215,833,2025-12-28,Cash,Pending
+6216,788,2025-03-02,Cash,Shipped
+6217,929,2024-10-16,UPI,Cancelled
+6218,557,2024-06-01,Cash,Pending
+6219,670,2024-08-17,Credit Card,Cancelled
+6220,402,2025-07-01,Credit Card,Cancelled
+6221,138,2025-03-03,Net Banking,Delivered
+6222,407,2024-11-08,Debit Card,Delivered
+6223,679,2026-03-22,Credit Card,Shipped
+6224,776,2025-07-04,Cash,Shipped
+6225,457,2025-05-07,Credit Card,Shipped
+6226,580,2024-07-27,Cash,Shipped
+6227,754,2024-07-29,Net Banking,Cancelled
+6228,42,2025-08-18,Credit Card,Pending
+6229,238,2025-10-12,UPI,Cancelled
+6230,379,2025-07-09,Credit Card,Delivered
+6231,685,2026-04-07,Credit Card,Cancelled
+6232,398,2025-09-17,Net Banking,Pending
+6233,903,2024-08-02,UPI,Delivered
+6234,665,2025-11-24,Debit Card,Delivered
+6235,721,2025-12-12,Cash,Cancelled
+6236,855,2025-08-15,Debit Card,Shipped
+6237,386,2025-12-26,Net Banking,Cancelled
+6238,602,2025-08-04,UPI,Cancelled
+6239,386,2025-10-24,Credit Card,Pending
+6240,362,2025-12-15,Debit Card,Pending
+6241,812,2024-07-05,Net Banking,Delivered
+6242,514,2024-10-19,Credit Card,Pending
+6243,170,2024-07-04,Credit Card,Delivered
+6244,527,2024-10-19,Debit Card,Shipped
+6245,154,2024-10-24,Credit Card,Shipped
+6246,371,2025-01-27,Cash,Delivered
+6247,677,2024-09-07,Credit Card,Pending
+6248,831,2025-07-19,Debit Card,Delivered
+6249,494,2024-11-29,Net Banking,Pending
+6250,216,2024-06-28,Cash,Shipped
+6251,663,2025-11-03,Net Banking,Delivered
+6252,250,2025-03-07,UPI,Shipped
+6253,588,2024-10-28,Cash,Shipped
+6254,138,2025-04-29,Cash,Delivered
+6255,913,2024-09-14,Cash,Shipped
+6256,58,2025-05-02,Credit Card,Cancelled
+6257,945,2024-08-25,Credit Card,Pending
+6258,614,2024-12-05,Cash,Delivered
+6259,900,2026-03-15,Debit Card,Delivered
+6260,222,2025-11-28,Net Banking,Pending
+6261,889,2024-08-03,Net Banking,Shipped
+6262,225,2026-04-20,Net Banking,Shipped
+6263,814,2024-08-28,Cash,Shipped
+6264,639,2026-03-14,Cash,Cancelled
+6265,172,2024-06-11,Debit Card,Pending
+6266,611,2025-03-11,Cash,Delivered
+6267,236,2026-03-18,Net Banking,Pending
+6268,136,2024-10-21,UPI,Delivered
+6269,208,2026-02-25,Cash,Pending
+6270,847,2024-06-30,Credit Card,Delivered
+6271,182,2025-09-13,Net Banking,Delivered
+6272,899,2025-05-25,Cash,Delivered
+6273,96,2024-11-26,Net Banking,Shipped
+6274,924,2026-04-03,Cash,Delivered
+6275,919,2025-07-31,Net Banking,Pending
+6276,380,2026-05-11,UPI,Pending
+6277,235,2024-12-27,Net Banking,Pending
+6278,359,2024-12-26,Cash,Delivered
+6279,436,2024-10-20,Credit Card,Cancelled
+6280,489,2026-02-24,Credit Card,Delivered
+6281,291,2024-08-19,Cash,Pending
+6282,264,2024-06-02,Credit Card,Delivered
+6283,727,2024-05-19,UPI,Delivered
+6284,533,2025-07-23,UPI,Pending
+6285,671,2026-01-17,Credit Card,Cancelled
+6286,419,2026-03-12,Debit Card,Delivered
+6287,159,2025-12-07,Net Banking,Cancelled
+6288,268,2024-12-26,Cash,Pending
+6289,579,2025-07-21,Debit Card,Cancelled
+6290,697,2024-09-02,Net Banking,Shipped
+6291,424,2026-02-14,Cash,Pending
+6292,184,2025-09-01,Debit Card,Pending
+6293,260,2025-07-13,Debit Card,Cancelled
+6294,793,2025-07-22,Net Banking,Shipped
+6295,876,2024-11-29,UPI,Shipped
+6296,458,2026-03-01,Credit Card,Delivered
+6297,220,2026-02-23,Cash,Pending
+6298,805,2025-09-09,Debit Card,Delivered
+6299,165,2026-01-13,Net Banking,Delivered
+6300,824,2025-01-18,UPI,Shipped
+6301,483,2026-02-08,Cash,Pending
+6302,91,2024-08-03,UPI,Cancelled
+6303,228,2025-10-14,Debit Card,Delivered
+6304,624,2024-12-17,UPI,Pending
+6305,954,2025-04-08,Net Banking,Cancelled
+6306,729,2024-08-17,Cash,Delivered
+6307,969,2025-04-10,Credit Card,Pending
+6308,450,2024-08-18,UPI,Shipped
+6309,871,2025-12-13,Cash,Cancelled
+6310,200,2026-01-04,UPI,Shipped
+6311,630,2025-04-20,Credit Card,Delivered
+6312,369,2024-09-08,Credit Card,Delivered
+6313,1000,2026-02-01,Credit Card,Delivered
+6314,283,2025-03-01,Net Banking,Cancelled
+6315,686,2025-07-24,Net Banking,Pending
+6316,601,2024-10-16,Credit Card,Delivered
+6317,755,2025-07-04,UPI,Delivered
+6318,563,2024-08-25,Debit Card,Cancelled
+6319,356,2025-05-04,Debit Card,Shipped
+6320,621,2025-12-14,Credit Card,Pending
+6321,953,2026-02-08,Net Banking,Delivered
+6322,268,2024-08-07,Credit Card,Pending
+6323,519,2025-05-25,UPI,Delivered
+6324,516,2025-02-01,Debit Card,Cancelled
+6325,970,2025-02-03,UPI,Cancelled
+6326,898,2024-09-11,Cash,Cancelled
+6327,711,2026-01-25,Net Banking,Pending
+6328,577,2025-02-13,Net Banking,Shipped
+6329,776,2026-04-17,Debit Card,Pending
+6330,698,2026-01-14,Net Banking,Delivered
+6331,494,2026-01-08,UPI,Cancelled
+6332,70,2025-01-29,Net Banking,Shipped
+6333,694,2024-08-29,Credit Card,Cancelled
+6334,423,2025-03-02,Debit Card,Delivered
+6335,718,2024-09-29,Debit Card,Shipped
+6336,295,2025-01-31,UPI,Pending
+6337,690,2024-06-28,Debit Card,Delivered
+6338,568,2025-05-03,Credit Card,Pending
+6339,322,2024-09-25,Debit Card,Shipped
+6340,916,2025-10-08,Cash,Cancelled
+6341,188,2025-06-23,Credit Card,Pending
+6342,755,2025-09-26,Credit Card,Shipped
+6343,754,2025-04-24,Credit Card,Cancelled
+6344,212,2024-07-23,Credit Card,Shipped
+6345,855,2024-12-06,Credit Card,Cancelled
+6346,160,2024-10-18,UPI,Delivered
+6347,943,2025-07-08,UPI,Pending
+6348,629,2024-08-18,UPI,Delivered
+6349,869,2024-09-12,Net Banking,Cancelled
+6350,636,2025-09-29,Debit Card,Pending
+6351,920,2025-10-30,Cash,Cancelled
+6352,503,2024-08-12,Credit Card,Cancelled
+6353,408,2024-08-21,Credit Card,Shipped
+6354,56,2024-06-27,Cash,Pending
+6355,490,2026-04-30,Cash,Delivered
+6356,515,2026-02-09,Debit Card,Pending
+6357,882,2026-02-03,Credit Card,Pending
+6358,1000,2025-10-05,UPI,Pending
+6359,324,2025-12-29,UPI,Delivered
+6360,691,2024-09-25,Credit Card,Pending
+6361,595,2025-05-15,UPI,Cancelled
+6362,371,2024-12-08,Cash,Cancelled
+6363,192,2025-03-07,Cash,Cancelled
+6364,243,2025-09-30,Debit Card,Pending
+6365,982,2026-01-21,Cash,Cancelled
+6366,375,2024-11-16,Credit Card,Pending
+6367,435,2025-06-12,Credit Card,Pending
+6368,718,2024-12-15,Debit Card,Cancelled
+6369,875,2025-04-23,Net Banking,Cancelled
+6370,462,2025-10-08,Credit Card,Shipped
+6371,590,2024-08-07,Credit Card,Delivered
+6372,739,2024-09-25,Debit Card,Shipped
+6373,569,2025-10-27,Net Banking,Pending
+6374,201,2024-11-29,Credit Card,Shipped
+6375,485,2024-09-07,UPI,Shipped
+6376,432,2026-03-10,Net Banking,Shipped
+6377,915,2024-11-01,Cash,Cancelled
+6378,805,2024-08-05,Net Banking,Cancelled
+6379,257,2024-10-03,Cash,Delivered
+6380,408,2024-10-29,UPI,Shipped
+6381,62,2025-05-18,Credit Card,Cancelled
+6382,488,2025-04-05,UPI,Pending
+6383,763,2025-05-28,Debit Card,Cancelled
+6384,370,2025-10-22,Debit Card,Cancelled
+6385,353,2025-06-16,UPI,Pending
+6386,125,2025-02-26,Debit Card,Shipped
+6387,591,2026-04-05,Cash,Shipped
+6388,800,2026-03-30,Debit Card,Cancelled
+6389,333,2025-09-27,Cash,Pending
+6390,794,2024-09-14,Net Banking,Delivered
+6391,391,2024-09-23,Cash,Cancelled
+6392,475,2024-07-18,Credit Card,Shipped
+6393,656,2024-12-30,Debit Card,Pending
+6394,647,2025-04-10,Cash,Pending
+6395,870,2026-01-05,UPI,Delivered
+6396,166,2025-01-20,Debit Card,Shipped
+6397,322,2025-03-05,Debit Card,Cancelled
+6398,728,2025-02-16,Debit Card,Pending
+6399,278,2025-04-03,Net Banking,Cancelled
+6400,766,2024-08-06,Cash,Pending
+6401,424,2024-11-02,Credit Card,Shipped
+6402,875,2024-11-17,UPI,Shipped
+6403,746,2026-04-29,Credit Card,Cancelled
+6404,964,2026-04-15,UPI,Shipped
+6405,171,2025-02-04,Net Banking,Delivered
+6406,98,2026-05-15,UPI,Pending
+6407,562,2025-08-25,UPI,Delivered
+6408,790,2026-01-04,Net Banking,Delivered
+6409,107,2025-01-16,Debit Card,Shipped
+6410,87,2024-10-19,Net Banking,Cancelled
+6411,235,2025-05-07,Credit Card,Cancelled
+6412,454,2024-11-28,Credit Card,Shipped
+6413,540,2025-05-10,Credit Card,Delivered
+6414,36,2024-08-22,Debit Card,Cancelled
+6415,885,2025-12-29,Net Banking,Pending
+6416,999,2024-07-08,Cash,Cancelled
+6417,562,2024-08-10,Net Banking,Shipped
+6418,993,2025-08-28,Cash,Shipped
+6419,606,2024-07-25,Cash,Pending
+6420,647,2025-06-25,Cash,Pending
+6421,537,2025-03-09,Cash,Cancelled
+6422,931,2026-04-07,Debit Card,Pending
+6423,553,2024-10-26,Credit Card,Delivered
+6424,453,2025-05-01,Debit Card,Cancelled
+6425,423,2024-12-07,Debit Card,Shipped
+6426,311,2025-06-18,UPI,Delivered
+6427,536,2024-09-14,Credit Card,Cancelled
+6428,294,2024-10-09,Net Banking,Delivered
+6429,705,2025-09-08,Net Banking,Pending
+6430,307,2025-04-09,UPI,Pending
+6431,818,2025-05-04,Debit Card,Shipped
+6432,816,2024-09-21,UPI,Cancelled
+6433,194,2024-08-07,Net Banking,Pending
+6434,405,2025-10-19,Credit Card,Shipped
+6435,733,2025-12-28,Net Banking,Pending
+6436,226,2024-07-02,Debit Card,Delivered
+6437,433,2025-02-02,Credit Card,Cancelled
+6438,292,2025-04-20,Cash,Cancelled
+6439,423,2025-11-21,Credit Card,Delivered
+6440,187,2025-03-07,Credit Card,Cancelled
+6441,114,2024-06-06,Net Banking,Pending
+6442,279,2025-07-31,Cash,Pending
+6443,193,2025-04-09,Debit Card,Delivered
+6444,156,2025-02-10,UPI,Delivered
+6445,191,2026-03-02,UPI,Cancelled
+6446,276,2026-05-11,Credit Card,Pending
+6447,745,2024-08-25,UPI,Shipped
+6448,93,2025-08-01,Credit Card,Delivered
+6449,506,2025-09-14,Credit Card,Cancelled
+6450,431,2024-06-22,Debit Card,Pending
+6451,381,2025-02-13,Net Banking,Delivered
+6452,339,2024-08-03,UPI,Shipped
+6453,58,2025-02-21,Debit Card,Pending
+6454,74,2026-01-05,Cash,Pending
+6455,186,2025-06-27,Credit Card,Cancelled
+6456,837,2025-10-29,Net Banking,Delivered
+6457,125,2024-08-01,Credit Card,Pending
+6458,790,2026-04-30,Net Banking,Shipped
+6459,756,2025-12-22,UPI,Shipped
+6460,472,2025-05-15,UPI,Shipped
+6461,485,2025-02-19,Net Banking,Cancelled
+6462,959,2026-04-02,Debit Card,Shipped
+6463,645,2025-08-02,UPI,Delivered
+6464,260,2025-02-23,Net Banking,Cancelled
+6465,204,2025-08-15,Debit Card,Delivered
+6466,885,2025-07-28,Credit Card,Delivered
+6467,242,2026-03-31,Net Banking,Cancelled
+6468,16,2025-01-11,Credit Card,Cancelled
+6469,599,2025-11-17,UPI,Pending
+6470,809,2025-02-28,Credit Card,Delivered
+6471,993,2024-08-09,UPI,Pending
+6472,705,2024-06-18,Cash,Shipped
+6473,381,2026-03-23,UPI,Shipped
+6474,162,2024-12-19,Net Banking,Delivered
+6475,703,2025-05-27,Cash,Cancelled
+6476,954,2025-07-18,UPI,Delivered
+6477,365,2024-08-01,Credit Card,Delivered
+6478,129,2024-08-26,Net Banking,Shipped
+6479,325,2025-01-24,Cash,Cancelled
+6480,825,2025-03-08,Net Banking,Shipped
+6481,22,2025-09-10,Net Banking,Cancelled
+6482,742,2026-03-02,Credit Card,Cancelled
+6483,921,2024-06-30,UPI,Pending
+6484,724,2024-09-29,Net Banking,Cancelled
+6485,556,2026-03-23,Net Banking,Shipped
+6486,581,2025-04-20,Credit Card,Cancelled
+6487,332,2024-11-23,Net Banking,Cancelled
+6488,889,2025-05-20,Cash,Shipped
+6489,71,2025-10-03,Cash,Shipped
+6490,461,2025-12-17,Debit Card,Cancelled
+6491,555,2025-08-10,Debit Card,Pending
+6492,1,2025-09-19,Cash,Pending
+6493,752,2025-07-20,Credit Card,Delivered
+6494,635,2024-09-05,Debit Card,Shipped
+6495,329,2024-11-15,UPI,Pending
+6496,195,2026-02-27,Cash,Pending
+6497,785,2026-03-27,Cash,Shipped
+6498,628,2026-02-23,Debit Card,Cancelled
+6499,420,2024-07-09,Debit Card,Delivered
+6500,99,2025-09-06,Cash,Delivered
+6501,45,2024-06-20,Credit Card,Shipped
+6502,895,2024-06-11,UPI,Shipped
+6503,110,2024-11-25,Net Banking,Shipped
+6504,102,2024-08-28,UPI,Pending
+6505,674,2024-10-08,Net Banking,Cancelled
+6506,51,2025-05-20,Debit Card,Shipped
+6507,621,2025-07-03,UPI,Delivered
+6508,953,2025-11-15,Credit Card,Pending
+6509,951,2025-06-07,UPI,Pending
+6510,821,2026-04-23,UPI,Cancelled
+6511,572,2025-11-19,Net Banking,Cancelled
+6512,814,2026-03-23,UPI,Cancelled
+6513,542,2025-11-27,UPI,Delivered
+6514,855,2025-03-10,Debit Card,Delivered
+6515,968,2026-03-02,Credit Card,Delivered
+6516,104,2024-11-28,Credit Card,Pending
+6517,195,2025-04-17,Credit Card,Shipped
+6518,584,2024-06-29,Credit Card,Pending
+6519,765,2025-11-29,UPI,Cancelled
+6520,691,2024-05-18,Net Banking,Pending
+6521,905,2025-02-09,UPI,Shipped
+6522,812,2024-09-02,Credit Card,Pending
+6523,517,2025-11-18,Debit Card,Shipped
+6524,547,2026-02-20,Cash,Pending
+6525,956,2025-12-01,Debit Card,Cancelled
+6526,564,2026-04-09,Debit Card,Cancelled
+6527,423,2026-01-02,Net Banking,Cancelled
+6528,624,2024-08-22,Credit Card,Shipped
+6529,385,2025-12-18,Cash,Cancelled
+6530,369,2024-09-18,Net Banking,Pending
+6531,983,2025-08-31,Net Banking,Delivered
+6532,744,2025-11-04,UPI,Cancelled
+6533,611,2024-06-24,UPI,Shipped
+6534,912,2024-08-21,Debit Card,Delivered
+6535,308,2025-03-29,Credit Card,Shipped
+6536,877,2025-02-26,Debit Card,Delivered
+6537,791,2025-03-22,Debit Card,Shipped
+6538,97,2025-03-23,UPI,Pending
+6539,365,2025-09-02,Credit Card,Shipped
+6540,272,2025-12-20,Debit Card,Shipped
+6541,239,2026-03-17,Debit Card,Cancelled
+6542,95,2025-09-14,Cash,Pending
+6543,583,2025-07-17,Credit Card,Delivered
+6544,741,2025-02-24,Debit Card,Pending
+6545,178,2025-10-25,Net Banking,Delivered
+6546,610,2025-07-23,Debit Card,Delivered
+6547,749,2026-01-31,Cash,Pending
+6548,81,2026-01-25,UPI,Cancelled
+6549,357,2025-06-24,Net Banking,Pending
+6550,953,2024-07-06,UPI,Shipped
+6551,766,2026-04-25,Cash,Delivered
+6552,650,2024-09-08,Net Banking,Delivered
+6553,313,2025-05-05,Cash,Delivered
+6554,327,2025-02-28,Cash,Shipped
+6555,335,2025-09-01,Cash,Shipped
+6556,157,2024-10-25,UPI,Pending
+6557,995,2024-08-14,Net Banking,Delivered
+6558,228,2024-10-22,Net Banking,Cancelled
+6559,806,2026-02-24,Net Banking,Shipped
+6560,136,2025-06-03,Debit Card,Delivered
+6561,488,2025-10-31,Cash,Delivered
+6562,562,2025-02-21,Net Banking,Cancelled
+6563,88,2025-03-16,Net Banking,Pending
+6564,793,2025-04-16,Credit Card,Shipped
+6565,493,2024-10-05,Cash,Shipped
+6566,500,2025-01-12,Net Banking,Shipped
+6567,575,2025-03-16,Cash,Shipped
+6568,249,2024-09-09,UPI,Cancelled
+6569,796,2026-02-14,Net Banking,Cancelled
+6570,702,2025-05-01,Cash,Delivered
+6571,116,2025-04-17,Net Banking,Pending
+6572,375,2025-08-18,Debit Card,Shipped
+6573,329,2025-07-04,Debit Card,Delivered
+6574,789,2025-11-29,Debit Card,Shipped
+6575,359,2025-11-01,Cash,Pending
+6576,639,2025-07-02,Credit Card,Pending
+6577,46,2025-10-24,Credit Card,Shipped
+6578,702,2025-12-07,Debit Card,Shipped
+6579,776,2024-05-16,UPI,Delivered
+6580,758,2025-10-25,UPI,Shipped
+6581,972,2025-12-24,Cash,Shipped
+6582,890,2026-05-03,Debit Card,Delivered
+6583,352,2025-03-28,UPI,Cancelled
+6584,461,2025-06-19,Net Banking,Delivered
+6585,340,2025-02-12,Credit Card,Shipped
+6586,209,2024-10-25,Cash,Cancelled
+6587,562,2025-05-22,Net Banking,Shipped
+6588,712,2026-02-12,UPI,Pending
+6589,597,2025-06-12,Cash,Delivered
+6590,262,2024-07-22,Credit Card,Delivered
+6591,291,2025-05-01,Credit Card,Cancelled
+6592,55,2026-04-17,Net Banking,Delivered
+6593,69,2024-10-23,Net Banking,Cancelled
+6594,679,2026-03-18,Debit Card,Delivered
+6595,20,2025-11-28,Debit Card,Pending
+6596,237,2025-01-13,Net Banking,Delivered
+6597,926,2024-11-08,Debit Card,Pending
+6598,888,2025-07-05,Cash,Delivered
+6599,191,2025-06-08,Credit Card,Pending
+6600,575,2024-11-15,UPI,Delivered
+6601,254,2026-02-10,Cash,Cancelled
+6602,342,2025-06-21,Net Banking,Pending
+6603,763,2026-02-13,Credit Card,Delivered
+6604,356,2025-09-26,Debit Card,Cancelled
+6605,641,2026-02-27,Debit Card,Shipped
+6606,514,2026-01-12,Debit Card,Delivered
+6607,641,2026-04-03,Debit Card,Pending
+6608,912,2024-06-22,UPI,Cancelled
+6609,231,2024-06-18,Credit Card,Cancelled
+6610,919,2025-12-24,Net Banking,Shipped
+6611,90,2026-03-21,Net Banking,Shipped
+6612,428,2026-03-02,Credit Card,Shipped
+6613,437,2025-07-16,Debit Card,Cancelled
+6614,460,2025-03-26,Cash,Shipped
+6615,212,2026-02-05,Credit Card,Shipped
+6616,884,2024-12-21,Credit Card,Cancelled
+6617,706,2026-04-11,Cash,Shipped
+6618,441,2025-07-11,Credit Card,Shipped
+6619,326,2025-01-10,UPI,Delivered
+6620,189,2025-05-21,Debit Card,Shipped
+6621,745,2025-11-20,UPI,Cancelled
+6622,902,2024-12-28,Net Banking,Pending
+6623,311,2025-07-09,Net Banking,Cancelled
+6624,156,2024-09-22,Credit Card,Delivered
+6625,135,2025-07-18,Credit Card,Delivered
+6626,781,2025-12-15,Cash,Cancelled
+6627,621,2025-12-24,Cash,Shipped
+6628,611,2025-05-15,Credit Card,Shipped
+6629,704,2024-07-13,UPI,Cancelled
+6630,82,2025-09-16,Net Banking,Shipped
+6631,515,2025-01-08,Cash,Pending
+6632,730,2024-07-03,Debit Card,Shipped
+6633,873,2025-01-04,Net Banking,Pending
+6634,486,2024-12-16,Credit Card,Shipped
+6635,198,2025-03-10,Credit Card,Delivered
+6636,419,2025-06-08,UPI,Cancelled
+6637,974,2024-10-10,Net Banking,Shipped
+6638,761,2024-09-07,Credit Card,Shipped
+6639,68,2024-06-18,Credit Card,Pending
+6640,888,2026-02-27,Cash,Pending
+6641,705,2024-06-16,Debit Card,Pending
+6642,909,2024-12-02,Credit Card,Pending
+6643,415,2024-10-18,UPI,Pending
+6644,738,2026-03-26,Debit Card,Pending
+6645,627,2024-06-10,Cash,Delivered
+6646,534,2025-10-18,UPI,Pending
+6647,468,2024-08-01,UPI,Shipped
+6648,532,2025-11-23,Cash,Pending
+6649,753,2024-10-15,UPI,Pending
+6650,529,2024-08-20,UPI,Shipped
+6651,299,2025-12-09,Net Banking,Pending
+6652,906,2024-06-16,Debit Card,Cancelled
+6653,473,2025-12-17,Credit Card,Pending
+6654,302,2026-02-16,Cash,Delivered
+6655,707,2025-06-25,Cash,Shipped
+6656,475,2025-03-04,Net Banking,Delivered
+6657,740,2025-01-20,Cash,Delivered
+6658,185,2024-07-16,Cash,Shipped
+6659,403,2026-03-05,Net Banking,Cancelled
+6660,462,2024-07-22,UPI,Shipped
+6661,465,2025-07-29,Cash,Shipped
+6662,904,2026-01-24,Net Banking,Delivered
+6663,257,2024-10-19,Debit Card,Shipped
+6664,736,2025-02-19,UPI,Delivered
+6665,117,2024-06-03,Net Banking,Cancelled
+6666,88,2025-02-25,Cash,Pending
+6667,745,2024-12-17,Cash,Shipped
+6668,388,2025-08-18,Cash,Pending
+6669,45,2025-12-30,Credit Card,Cancelled
+6670,580,2025-03-05,Credit Card,Shipped
+6671,890,2024-05-23,Credit Card,Shipped
+6672,788,2025-06-23,UPI,Pending
+6673,316,2025-04-15,Debit Card,Pending
+6674,296,2024-12-06,Credit Card,Delivered
+6675,921,2025-03-18,Credit Card,Shipped
+6676,4,2025-08-23,Cash,Cancelled
+6677,13,2024-05-20,Net Banking,Pending
+6678,876,2024-08-22,Net Banking,Delivered
+6679,623,2024-10-26,Net Banking,Shipped
+6680,223,2025-06-11,Cash,Pending
+6681,465,2025-12-08,Net Banking,Pending
+6682,82,2025-12-23,Cash,Delivered
+6683,251,2026-02-21,Cash,Cancelled
+6684,635,2025-04-04,Cash,Shipped
+6685,51,2025-04-04,Credit Card,Shipped
+6686,57,2025-09-22,Debit Card,Delivered
+6687,149,2025-06-11,UPI,Cancelled
+6688,340,2024-12-06,UPI,Delivered
+6689,112,2026-04-08,Net Banking,Shipped
+6690,166,2024-10-17,Debit Card,Shipped
+6691,990,2026-03-05,Net Banking,Cancelled
+6692,954,2025-11-09,UPI,Delivered
+6693,787,2026-04-30,Debit Card,Cancelled
+6694,378,2025-05-28,Net Banking,Delivered
+6695,777,2024-08-24,Net Banking,Delivered
+6696,300,2025-05-17,Net Banking,Shipped
+6697,125,2026-04-25,Debit Card,Cancelled
+6698,540,2024-06-23,Net Banking,Shipped
+6699,713,2024-09-11,Credit Card,Delivered
+6700,112,2024-06-02,Cash,Delivered
+6701,496,2025-06-06,Cash,Cancelled
+6702,438,2025-09-16,Cash,Cancelled
+6703,266,2025-10-22,Cash,Cancelled
+6704,950,2026-04-10,Credit Card,Pending
+6705,533,2024-08-22,Net Banking,Pending
+6706,828,2026-01-10,Credit Card,Shipped
+6707,726,2026-04-14,Debit Card,Shipped
+6708,2,2025-06-11,UPI,Delivered
+6709,477,2024-08-27,UPI,Shipped
+6710,819,2025-01-01,Cash,Pending
+6711,424,2026-03-09,UPI,Cancelled
+6712,359,2024-05-15,Cash,Shipped
+6713,12,2025-02-06,Credit Card,Cancelled
+6714,261,2024-12-03,UPI,Cancelled
+6715,308,2024-11-25,Cash,Cancelled
+6716,786,2025-11-11,UPI,Delivered
+6717,703,2024-09-30,Debit Card,Cancelled
+6718,406,2025-04-12,Cash,Delivered
+6719,853,2024-05-29,Credit Card,Shipped
+6720,339,2026-05-07,Debit Card,Pending
+6721,939,2024-06-09,Net Banking,Delivered
+6722,662,2025-07-10,Credit Card,Pending
+6723,160,2025-05-29,Net Banking,Cancelled
+6724,474,2025-09-08,Net Banking,Delivered
+6725,856,2024-06-08,Cash,Cancelled
+6726,579,2025-10-14,Debit Card,Delivered
+6727,214,2025-11-19,Cash,Cancelled
+6728,819,2025-01-18,Debit Card,Delivered
+6729,993,2025-03-14,Credit Card,Cancelled
+6730,861,2026-05-04,UPI,Cancelled
+6731,385,2026-01-31,Cash,Shipped
+6732,585,2026-01-31,Cash,Pending
+6733,192,2026-05-11,Cash,Delivered
+6734,886,2025-11-03,Debit Card,Cancelled
+6735,727,2025-11-11,UPI,Cancelled
+6736,424,2024-10-01,UPI,Pending
+6737,899,2024-10-15,Credit Card,Cancelled
+6738,463,2025-03-10,Debit Card,Shipped
+6739,538,2024-06-16,Debit Card,Shipped
+6740,115,2024-06-27,Debit Card,Delivered
+6741,797,2024-08-31,Credit Card,Delivered
+6742,455,2024-10-16,Cash,Delivered
+6743,819,2026-02-17,Net Banking,Shipped
+6744,195,2025-06-17,Debit Card,Pending
+6745,751,2025-03-11,Cash,Cancelled
+6746,795,2025-07-19,Debit Card,Shipped
+6747,788,2025-11-10,UPI,Shipped
+6748,211,2025-10-30,UPI,Pending
+6749,397,2024-10-24,Cash,Delivered
+6750,5,2025-11-07,Debit Card,Delivered
+6751,704,2025-07-14,Cash,Delivered
+6752,342,2025-06-18,Net Banking,Delivered
+6753,106,2026-04-30,Cash,Cancelled
+6754,24,2024-08-07,Cash,Cancelled
+6755,655,2025-05-15,Credit Card,Cancelled
+6756,206,2024-06-22,Credit Card,Cancelled
+6757,284,2025-12-04,Cash,Cancelled
+6758,792,2025-03-20,Net Banking,Delivered
+6759,280,2025-09-04,Credit Card,Shipped
+6760,281,2025-06-20,UPI,Delivered
+6761,982,2025-04-22,Cash,Delivered
+6762,212,2025-03-13,Cash,Cancelled
+6763,563,2025-01-22,Debit Card,Cancelled
+6764,145,2024-06-23,Debit Card,Shipped
+6765,176,2026-03-15,UPI,Cancelled
+6766,628,2026-01-10,Debit Card,Pending
+6767,52,2026-03-25,Credit Card,Delivered
+6768,483,2025-05-17,UPI,Delivered
+6769,393,2025-12-27,UPI,Delivered
+6770,437,2025-11-26,Net Banking,Shipped
+6771,722,2024-06-07,Cash,Pending
+6772,632,2025-09-18,Debit Card,Cancelled
+6773,341,2025-11-10,Credit Card,Delivered
+6774,998,2026-04-21,Net Banking,Shipped
+6775,96,2025-10-20,Net Banking,Delivered
+6776,467,2024-11-01,Debit Card,Pending
+6777,482,2025-11-16,Credit Card,Shipped
+6778,148,2025-08-21,Cash,Cancelled
+6779,935,2025-10-06,Debit Card,Pending
+6780,188,2025-04-11,Debit Card,Cancelled
+6781,465,2026-02-13,Net Banking,Delivered
+6782,67,2025-04-30,Net Banking,Delivered
+6783,360,2025-10-08,Net Banking,Pending
+6784,867,2025-05-31,Credit Card,Cancelled
+6785,787,2024-08-07,Debit Card,Shipped
+6786,521,2024-11-18,UPI,Pending
+6787,838,2024-09-21,UPI,Cancelled
+6788,570,2025-01-09,UPI,Cancelled
+6789,546,2025-03-17,Net Banking,Pending
+6790,605,2025-08-20,Net Banking,Shipped
+6791,636,2025-05-26,Credit Card,Shipped
+6792,998,2025-11-09,Net Banking,Pending
+6793,68,2024-08-01,Debit Card,Shipped
+6794,834,2026-04-11,Cash,Pending
+6795,804,2025-02-06,Net Banking,Cancelled
+6796,558,2025-04-02,Credit Card,Shipped
+6797,679,2025-07-15,UPI,Pending
+6798,118,2024-09-06,Cash,Pending
+6799,334,2024-06-08,Cash,Delivered
+6800,842,2024-12-23,Net Banking,Shipped
+6801,316,2025-05-15,Net Banking,Delivered
+6802,613,2026-04-29,UPI,Pending
+6803,336,2025-09-29,Net Banking,Delivered
+6804,93,2025-03-04,Credit Card,Shipped
+6805,909,2024-06-20,Cash,Delivered
+6806,776,2026-01-19,Credit Card,Shipped
+6807,464,2024-11-03,Cash,Cancelled
+6808,400,2025-03-14,Cash,Pending
+6809,201,2024-08-03,Credit Card,Cancelled
+6810,307,2025-10-29,Cash,Cancelled
+6811,941,2024-12-22,Net Banking,Cancelled
+6812,92,2025-12-24,Cash,Delivered
+6813,627,2026-05-10,Cash,Pending
+6814,868,2024-09-15,Credit Card,Cancelled
+6815,64,2025-11-10,Debit Card,Delivered
+6816,1,2025-07-26,Cash,Cancelled
+6817,113,2025-11-15,Debit Card,Delivered
+6818,241,2025-01-04,Net Banking,Pending
+6819,641,2025-02-22,Debit Card,Pending
+6820,416,2025-02-07,Net Banking,Pending
+6821,559,2025-03-03,Credit Card,Shipped
+6822,487,2025-11-03,Credit Card,Shipped
+6823,569,2026-02-24,Net Banking,Cancelled
+6824,861,2025-04-10,Net Banking,Shipped
+6825,296,2026-04-12,Credit Card,Shipped
+6826,12,2025-03-16,UPI,Delivered
+6827,148,2025-11-04,Net Banking,Pending
+6828,999,2026-01-07,Credit Card,Delivered
+6829,141,2025-06-06,Net Banking,Pending
+6830,916,2024-11-12,Cash,Pending
+6831,639,2025-05-28,Credit Card,Pending
+6832,522,2025-12-04,Net Banking,Pending
+6833,394,2025-04-03,Debit Card,Shipped
+6834,191,2025-06-22,Net Banking,Delivered
+6835,592,2025-06-17,Net Banking,Shipped
+6836,730,2025-01-10,Cash,Cancelled
+6837,421,2026-03-27,Cash,Cancelled
+6838,35,2024-09-06,UPI,Pending
+6839,722,2026-01-16,Debit Card,Delivered
+6840,595,2024-10-28,Net Banking,Delivered
+6841,146,2026-04-03,Cash,Cancelled
+6842,477,2026-03-11,Cash,Delivered
+6843,536,2025-08-19,Cash,Delivered
+6844,252,2024-11-05,Net Banking,Delivered
+6845,701,2025-04-22,Cash,Cancelled
+6846,628,2025-03-10,UPI,Cancelled
+6847,548,2024-08-01,UPI,Pending
+6848,465,2025-05-30,Cash,Pending
+6849,588,2025-09-06,Debit Card,Pending
+6850,362,2026-04-14,Debit Card,Cancelled
+6851,172,2025-03-20,UPI,Cancelled
+6852,745,2025-11-01,Cash,Cancelled
+6853,63,2024-10-12,Net Banking,Shipped
+6854,587,2025-02-26,UPI,Cancelled
+6855,829,2025-05-09,Cash,Delivered
+6856,294,2025-05-04,Net Banking,Delivered
+6857,130,2025-12-23,Cash,Delivered
+6858,872,2024-05-25,Debit Card,Cancelled
+6859,136,2025-12-31,Cash,Cancelled
+6860,282,2025-08-25,Debit Card,Delivered
+6861,760,2025-02-21,UPI,Shipped
+6862,932,2025-08-17,Cash,Shipped
+6863,675,2026-04-23,Net Banking,Cancelled
+6864,828,2026-04-05,Credit Card,Cancelled
+6865,802,2026-02-26,Credit Card,Pending
+6866,186,2025-09-27,Cash,Delivered
+6867,352,2025-07-20,UPI,Shipped
+6868,610,2026-02-18,Credit Card,Pending
+6869,771,2025-06-26,Net Banking,Pending
+6870,244,2026-01-10,Net Banking,Shipped
+6871,216,2024-08-08,Cash,Cancelled
+6872,56,2026-01-28,Debit Card,Delivered
+6873,54,2024-06-25,Credit Card,Pending
+6874,409,2026-02-22,Net Banking,Cancelled
+6875,488,2025-02-28,Cash,Shipped
+6876,389,2024-10-15,Net Banking,Pending
+6877,269,2025-02-27,Credit Card,Pending
+6878,13,2025-05-24,Debit Card,Pending
+6879,392,2025-03-23,Debit Card,Delivered
+6880,100,2025-03-30,Cash,Cancelled
+6881,980,2024-09-23,Net Banking,Cancelled
+6882,344,2024-07-07,Debit Card,Cancelled
+6883,822,2024-11-08,UPI,Cancelled
+6884,671,2025-01-28,Cash,Pending
+6885,473,2024-07-13,Credit Card,Shipped
+6886,533,2025-07-12,Debit Card,Shipped
+6887,321,2024-11-28,Cash,Delivered
+6888,689,2025-01-04,UPI,Delivered
+6889,13,2025-11-05,Net Banking,Delivered
+6890,538,2025-02-02,UPI,Pending
+6891,360,2024-09-27,Credit Card,Cancelled
+6892,258,2025-07-11,Credit Card,Delivered
+6893,25,2026-02-15,Cash,Delivered
+6894,59,2025-09-18,Cash,Shipped
+6895,974,2024-12-16,Cash,Delivered
+6896,726,2024-10-12,UPI,Delivered
+6897,877,2025-08-24,Cash,Shipped
+6898,385,2026-03-22,Cash,Shipped
+6899,918,2025-05-29,UPI,Shipped
+6900,260,2024-06-01,Debit Card,Pending
+6901,677,2025-05-07,UPI,Pending
+6902,945,2025-12-24,Debit Card,Pending
+6903,709,2025-03-08,Debit Card,Cancelled
+6904,166,2025-02-01,UPI,Cancelled
+6905,796,2025-10-30,UPI,Pending
+6906,398,2025-01-14,Debit Card,Delivered
+6907,265,2025-04-02,Debit Card,Shipped
+6908,452,2024-05-27,UPI,Pending
+6909,951,2024-08-10,Credit Card,Pending
+6910,183,2025-04-13,Net Banking,Delivered
+6911,148,2025-03-18,Cash,Pending
+6912,224,2025-01-11,Cash,Delivered
+6913,935,2026-04-30,Net Banking,Cancelled
+6914,106,2025-01-25,UPI,Delivered
+6915,73,2024-09-15,Cash,Cancelled
+6916,796,2025-07-10,Net Banking,Delivered
+6917,919,2025-07-16,Net Banking,Shipped
+6918,669,2026-01-18,UPI,Delivered
+6919,681,2025-12-29,Net Banking,Cancelled
+6920,156,2025-09-22,Debit Card,Pending
+6921,589,2026-05-06,UPI,Pending
+6922,490,2024-08-22,Net Banking,Pending
+6923,865,2025-03-19,UPI,Shipped
+6924,4,2025-08-13,Net Banking,Pending
+6925,125,2025-08-01,Cash,Cancelled
+6926,342,2026-02-02,Debit Card,Pending
+6927,57,2025-10-03,UPI,Cancelled
+6928,548,2025-10-25,Debit Card,Delivered
+6929,862,2025-03-23,Net Banking,Cancelled
+6930,664,2026-01-21,Credit Card,Shipped
+6931,568,2026-04-21,UPI,Pending
+6932,677,2025-01-01,Credit Card,Cancelled
+6933,713,2026-01-19,Net Banking,Delivered
+6934,646,2026-01-01,Debit Card,Pending
+6935,87,2024-11-20,Net Banking,Shipped
+6936,144,2024-09-27,UPI,Shipped
+6937,26,2024-09-05,Cash,Shipped
+6938,501,2024-12-08,Net Banking,Delivered
+6939,812,2025-07-22,Cash,Cancelled
+6940,512,2026-02-15,Cash,Pending
+6941,990,2024-05-17,UPI,Delivered
+6942,348,2024-11-17,UPI,Cancelled
+6943,807,2024-05-29,UPI,Pending
+6944,122,2025-05-13,Credit Card,Pending
+6945,963,2024-08-29,Cash,Shipped
+6946,759,2026-04-04,Cash,Shipped
+6947,948,2024-10-05,UPI,Delivered
+6948,754,2025-04-05,Credit Card,Pending
+6949,670,2026-04-25,UPI,Pending
+6950,929,2026-02-14,Cash,Delivered
+6951,249,2026-03-01,Credit Card,Delivered
+6952,177,2025-03-31,UPI,Cancelled
+6953,841,2025-09-30,UPI,Pending
+6954,626,2026-03-14,Credit Card,Delivered
+6955,838,2025-12-27,UPI,Delivered
+6956,510,2026-02-16,Cash,Shipped
+6957,65,2025-11-20,Credit Card,Pending
+6958,346,2024-12-29,Net Banking,Cancelled
+6959,124,2025-10-15,Cash,Shipped
+6960,330,2026-03-16,Credit Card,Delivered
+6961,608,2025-04-10,Credit Card,Cancelled
+6962,65,2026-01-09,UPI,Cancelled
+6963,145,2025-05-14,Net Banking,Shipped
+6964,714,2025-06-11,Debit Card,Shipped
+6965,450,2024-08-15,Credit Card,Delivered
+6966,137,2025-04-22,UPI,Pending
+6967,797,2024-07-21,Credit Card,Delivered
+6968,901,2025-03-06,Net Banking,Delivered
+6969,7,2024-09-01,UPI,Shipped
+6970,949,2025-10-14,UPI,Cancelled
+6971,427,2025-08-10,Net Banking,Shipped
+6972,212,2024-09-17,Credit Card,Cancelled
+6973,536,2025-03-06,Net Banking,Pending
+6974,245,2026-01-29,Credit Card,Delivered
+6975,611,2025-04-27,Credit Card,Pending
+6976,627,2025-04-12,UPI,Cancelled
+6977,357,2026-04-19,Net Banking,Delivered
+6978,572,2025-09-05,Credit Card,Shipped
+6979,121,2026-03-03,Cash,Delivered
+6980,634,2026-01-29,Debit Card,Shipped
+6981,476,2025-04-25,Credit Card,Cancelled
+6982,55,2025-08-22,Credit Card,Delivered
+6983,816,2025-08-04,Credit Card,Pending
+6984,510,2025-09-26,Credit Card,Shipped
+6985,687,2025-11-16,UPI,Delivered
+6986,661,2026-01-03,Debit Card,Cancelled
+6987,215,2025-04-23,Net Banking,Cancelled
+6988,343,2024-10-16,Cash,Pending
+6989,45,2025-09-14,UPI,Delivered
+6990,948,2025-09-05,Cash,Shipped
+6991,162,2025-04-16,UPI,Pending
+6992,528,2025-04-28,UPI,Delivered
+6993,917,2024-06-13,Credit Card,Pending
+6994,607,2025-08-07,Cash,Cancelled
+6995,430,2025-10-24,Credit Card,Cancelled
+6996,236,2024-11-06,UPI,Cancelled
+6997,234,2025-04-12,UPI,Shipped
+6998,756,2025-12-13,Net Banking,Shipped
+6999,385,2024-10-20,Credit Card,Delivered
+7000,483,2025-06-13,Cash,Pending

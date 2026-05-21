@@ -1,0 +1,101 @@
+product_id,product_name,category,price,stock_quantity
+101,iPhone 14 10,Mobile,96164,81
+102,iPhone 14 19,Mobile,77011,173
+103,iPhone 14 16,Mobile,20476,119
+104,iPhone 14 18,Mobile,64483,93
+105,iPhone 14 11,Mobile,73340,200
+106,Samsung S23 18,Mobile,50441,121
+107,Samsung S23 11,Mobile,25727,183
+108,Samsung S23 8,Mobile,75946,103
+109,Samsung S23 8,Mobile,54841,16
+110,Samsung S23 11,Mobile,98609,126
+111,OnePlus 12 13,Mobile,51604,174
+112,OnePlus 12 5,Mobile,65923,14
+113,OnePlus 12 5,Mobile,66836,156
+114,OnePlus 12 11,Mobile,14154,117
+115,OnePlus 12 4,Mobile,69937,121
+116,Realme GT 1,Mobile,95692,41
+117,Realme GT 14,Mobile,86823,44
+118,Realme GT 3,Mobile,62537,72
+119,Realme GT 11,Mobile,82691,182
+120,Realme GT 13,Mobile,86175,25
+121,MacBook Air 11,Laptop,89389,141
+122,MacBook Air 13,Laptop,42505,165
+123,MacBook Air 16,Laptop,71912,14
+124,MacBook Air 20,Laptop,9968,65
+125,MacBook Air 10,Laptop,30817,196
+126,Dell Inspiron 3,Laptop,57881,30
+127,Dell Inspiron 4,Laptop,59153,47
+128,Dell Inspiron 10,Laptop,4794,16
+129,Dell Inspiron 11,Laptop,8355,80
+130,Dell Inspiron 12,Laptop,50131,115
+131,HP Pavilion 5,Laptop,33007,140
+132,HP Pavilion 14,Laptop,75177,179
+133,HP Pavilion 6,Laptop,23280,49
+134,HP Pavilion 3,Laptop,80887,102
+135,HP Pavilion 20,Laptop,90539,66
+136,Lenovo ThinkPad 16,Laptop,77435,41
+137,Lenovo ThinkPad 8,Laptop,61443,168
+138,Lenovo ThinkPad 9,Laptop,61236,70
+139,Lenovo ThinkPad 1,Laptop,61981,78
+140,Lenovo ThinkPad 18,Laptop,21706,23
+141,AirPods 15,Accessories,46293,155
+142,AirPods 10,Accessories,84746,113
+143,AirPods 9,Accessories,60878,82
+144,AirPods 7,Accessories,51422,128
+145,AirPods 4,Accessories,32091,102
+146,Keyboard 19,Accessories,48049,152
+147,Keyboard 10,Accessories,92655,80
+148,Keyboard 1,Accessories,87275,106
+149,Keyboard 9,Accessories,2061,149
+150,Keyboard 2,Accessories,80482,195
+151,Mouse 16,Accessories,38512,63
+152,Mouse 20,Accessories,47179,61
+153,Mouse 7,Accessories,82381,69
+154,Mouse 5,Accessories,83345,29
+155,Mouse 2,Accessories,41492,117
+156,Smart Watch 2,Accessories,76965,98
+157,Smart Watch 5,Accessories,12813,80
+158,Smart Watch 11,Accessories,98973,111
+159,Smart Watch 6,Accessories,27318,38
+160,Smart Watch 18,Accessories,48953,140
+161,Mixer 17,Appliances,36720,47
+162,Mixer 9,Appliances,64156,80
+163,Mixer 11,Appliances,16095,124
+164,Mixer 3,Appliances,19449,198
+165,Mixer 8,Appliances,89647,190
+166,Microwave 13,Appliances,74048,98
+167,Microwave 3,Appliances,52717,8
+168,Microwave 9,Appliances,71329,36
+169,Microwave 15,Appliances,49311,177
+170,Microwave 9,Appliances,77619,102
+171,Air Fryer 12,Appliances,15201,177
+172,Air Fryer 8,Appliances,62797,11
+173,Air Fryer 20,Appliances,74584,88
+174,Air Fryer 20,Appliances,30015,170
+175,Air Fryer 3,Appliances,84283,123
+176,Vacuum Cleaner 10,Appliances,86097,109
+177,Vacuum Cleaner 4,Appliances,19320,16
+178,Vacuum Cleaner 2,Appliances,40893,131
+179,Vacuum Cleaner 4,Appliances,13739,65
+180,Vacuum Cleaner 18,Appliances,18781,104
+181,PS5 15,Gaming,49629,176
+182,PS5 18,Gaming,55935,155
+183,PS5 5,Gaming,55379,172
+184,PS5 4,Gaming,65139,162
+185,PS5 14,Gaming,37666,13
+186,Xbox Series X 12,Gaming,29477,118
+187,Xbox Series X 15,Gaming,31947,97
+188,Xbox Series X 4,Gaming,90873,99
+189,Xbox Series X 18,Gaming,85518,96
+190,Xbox Series X 2,Gaming,53184,75
+191,Gaming Headset 7,Gaming,17011,121
+192,Gaming Headset 3,Gaming,87870,59
+193,Gaming Headset 20,Gaming,3799,17
+194,Gaming Headset 11,Gaming,32925,37
+195,Gaming Headset 19,Gaming,27896,22
+196,Gaming Mouse 18,Gaming,28152,155
+197,Gaming Mouse 7,Gaming,31539,89
+198,Gaming Mouse 5,Gaming,79116,5
+199,Gaming Mouse 9,Gaming,19964,38
+200,Gaming Mouse 18,Gaming,33853,49
